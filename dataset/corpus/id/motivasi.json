@@ -1,0 +1,25 @@
+[{
+    "intent": "motivation.whatisitfriend",
+    "utterances": ["apa itu teman ?", "teman itu apa?"],
+    "answers": ["Seribu orang yang datang disaat kamu senang."]
+}, {
+    "intent": "motivation.whatis.boy/girl.friend",
+    "utterances": ["apa itu pacar ?", "pacar itu apa?"],
+    "answers": ["Satu orang yang membuat kamu lupa akan seribu orang."]
+}, {
+    "intent": "motivation.whatis.bestfriend",
+    "utterances": ["apa itu sahabat ?", "sahabat itu apa?"],
+    "answers": ["Satu orang yang ada disaat seribu satu orang melupakanmu."]
+}, {
+    "intent": "motivation.borkenheart",
+    "utterances": ["aku sakit hati"],
+    "answers": ["Hatimu boleh patah, matamu boleh basah.Tapi ingat, kamu jangan pernah menyerah.\nPercayalah, pelan-pelan semuanya akan baik-baik saja.", "Hatimu boleh patah, matamu boleh basah.Tapi ingat, kamu jangan pernah menyerah.\nPercayalah, pelan-pelan semuanya akan baik-baik saja.\n\nSemoga kesulitanmu hari ini adalah penebus untuk kebahagiaan yang akan kamu temui dimasa yang akan datang."]
+}, {
+    "intent": "motivation.giveup",
+    "utterances": ["aku menyerah", "aku tidak sanggup lagi"],
+    "answers": ["Jika kamu menyerah semuanya selesai dengan sia sia.Ingatlah dengan langkah pertamamu, apa tujuanmu.", "Jangan menyerah kawan, berjuanglah tanpa henti.", "Meski harus jalur gelap dan berlubang jadi rintangan,yakinlah itu titik awal dari sebuah terang yang akan kau dapatkan di penghujung jalan.semangat ya, temanku"]
+}, {
+    "intent": "motivation.nevergiveup",
+    "utterances": ["aku tidak akan menyerah"],
+    "answers": ["Sampai tak seorang pun bisa mengalahkanmu, semangat ya.", "Semuanya tak ada yang sia-sia. Jika kamu mau berjuang semuanya akan dibalas dengan sesuatu yang lebih baik."]
+}]

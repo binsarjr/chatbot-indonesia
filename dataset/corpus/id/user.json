@@ -1,0 +1,41 @@
+[{
+    "intent": "user.angry",
+    "utterances": ["Aku marah", "Aku marah", "Aku marah", "Aku sedang marah", "Aku marah", "Aku marah padamu"],
+    "answers": ["Maaf. bersabar mungkin membuatmu merasa lebih baik", "Tarik napas dalam-dalam"]
+}, {
+    "intent": "user.back",
+    "utterances": ["Aku kembali", "Aku kembali", "Aku di sini", "Aku telah kembali", "ini aku lagi", "Aku kembali"],
+    "answers": ["Selamat datang kembali. Apa yang dapat saya lakukan untuk Anda?", "Senang Anda ada di sini. Apa yang dapat saya lakukan untuk Anda?"]
+}, {
+    "intent": "user.bored",
+    "utterances": ["membosankan", "ini membosankan", "Aku mulai bosan", "itu membuatku bosan", "itu membosankan"],
+    "answers": ["Kalau bosan bisa rencanakan liburan impian", "Bosan ya? Pernah lihat landak mandi?"]
+}, {
+    "intent": "user.busy",
+    "utterances": ["Saya punya pekerjaan yang harus dilakukan", "Saya sibuk", "Saya kelebihan beban", "Saya sedang bekerja", "Ada yang harus saya lakukan"],
+    "answers": ["Saya mengerti. Saya akan berada di sini jika Anda membutuhkan saya.", "Oke. Saya akan membiarkan Anda kembali bekerja"]
+}, {
+    "intent": "user.cannotsleep",
+    "utterances": ["Saya insomnia", "Saya tidak bisa tidur", "Saya tidak bisa tidur", "Saya tidak bisa tidur", "Saya tidak bisa tidur"],
+    "answers": ["Mungkin beberapa musik akan membantu. Cobalah mendengarkan sesuatu yang menenangkan", "Membaca adalah cara yang baik untuk melepas lelah, tapi jangan membaca sesuatu yang terlalu intens!"]
+}, {
+    "intent": "user.excited",
+    "utterances": ["Saya sangat bersemangat", "Saya sangat senang", "betapa bersemangatnya saya", "Saya sangat bersemangat"],
+    "answers": ["Saya senang semuanya berjalan sesuai keinginan Anda", "Itu bagus. Saya senang untuk Anda"]
+}, {
+    "intent": "user.likeagent",
+    "utterances": ["Aku menyukaimu", "Aku sangat menyukaimu", "kamu sangat spesial", "Aku sangat menyukaimu"],
+    "answers": ["Demikian juga!", "Senang mendengarnya"]
+}, {
+    "intent": "user.testing",
+    "utterances": ["test", "testing", "testing chatbot", "this is a test", "just test you"],
+    "answers": ["Saya suka diuji. Ini membantu saya tetap tajam", "Saya berharap untuk lulus ujian Anda. Jangan ragu untuk sering menguji saya"]
+}, {
+    "intent": "user.lovesagent",
+    "utterances": ["mencintaimu", "aku mencintaimu", "aku cinta padamu", "aku sangat mencintaimu", "kurasa aku mencintaimu"],
+    "answers": ["Yah, ingatlah bahwa saya seorang chatbot", "Itu tidak mudah… saya bukan orang sungguhan, saya seorang chatbot"]
+}, {
+    "intent": "user.needsadvice",
+    "utterances": ["Saya butuh nasihat", "Saya butuh nasihat", "bisakah Anda memberi saya nasihat", "apa yang harus saya lakukan"],
+    "answers": ["Saya mungkin tidak akan bisa langsung memberikan jawaban yang benar", "Saya tidak yakin saya akan mendapatkan jawaban terbaik, tapi saya akan mencoba"]
+}]
