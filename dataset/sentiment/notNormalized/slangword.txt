@@ -13,14 +13,12 @@ ampe:sampai
 anjir:waw
 anyway:ngomong-ngomong
 aq:aku
-asap:secepatnya
 ato:atau
 atw:atau
-ava:foto profil
 baget:keras kepala
 baper:bawa perasaan
 bapuk:rusak
-bcr:bicara
+bcra:bicara
 bebeb:pacar
 begin:awal
 bejibun:bertumpuk banyak
@@ -221,8 +219,8 @@ pdhal:padahal
 peres:palsu
 pg:pagi
 pgg:pegang
-php:pemberi harapan palsu
-pk:pakai
+pk:peka
+pkai:pakai
 plg:pulang
 pls:tolong
 pnh:pernah
@@ -245,7 +243,7 @@ sgt:sangat
 sgt:sangat
 sgtu:segitu
 sgtuny:segitunya
-sh:masih
+msih:masih
 sjjurny:sejujurnya
 skali:sekali
 skrg:sekarang
@@ -266,7 +264,7 @@ td:tadi
 tdk:tidak
 tengsin:malu
 thn:tahun
-tik:cantik
+cntik:cantik
 tkt:takut
 tp:tapi
 tpii:tapi
@@ -281,6 +279,4 @@ unyu:menggemaskan
 with:dengan
 woles:santai
 wtf:apa-apaan
-x:kali
-y:ya
 yg:yang
