@@ -32,16 +32,17 @@
         "node-nlp": "^4.11.2",
         "papaparse": "^5.3.0",
         "puppeteer": "^5.3.0",
+        "question-answering": "^3.0.0",
         "sastrawijs": "^1.0.3",
         "sentiment": "^5.0.2",
         "simple-spellchecker": "^1.0.1",
         "spellchecker": "^3.7.0",
         "spelling-corrector": "^3.0.0",
         "stopword": "^1.0.1",
-        "translate": "^1.1.2",
-        "typescript": "^3.9.5"
+        "translate": "^1.1.2"
     },
     "devDependencies": {
+        "typescript": "^3.9.5",
         "@types/axios": "^0.14.0",
         "@types/natural": "^2.1.0",
         "@types/node": "^14.0.13",
