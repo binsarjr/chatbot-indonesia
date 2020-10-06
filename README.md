@@ -16,6 +16,7 @@ Repo ini saya gunakan untuk mengumpulkan dataset yang bisa digunakan dalam membu
 - [nodehun](https://www.npmjs.com/package/nodehun) untuk keperluan spell check
 
 # Persyaratan
+- [NodeJS](https://nodejs.org/en/)
 - [NPM](npmjs.com/)
 - [typescript](https://www.typescriptlang.org/)
 
