@@ -1,7 +1,16 @@
+Puji	3
+abadi	2
 absah	1
 absolut	1
+accord	1
 acuan	1
+adil	2
+adopsi	1
+adores	3
+aduhai	1
 afdol	1
+agog	2
+agung	3
 ahli	1
 akademisi	1
 akan bayar	1
@@ -20,46 +29,64 @@ amal	1
 amal jariah	1
 aman	1
 aman-aman	1
+amankan	2
+ambisius	2
 amboi	1
 ampuh	1
+ampun	2
 anak emas	1
 andal	1
 andalan	1
 anggukan	1
-anggun	1
+anggun	3
 animo	1
 anjuran	1
 anteng	1
-antusias	1
+antisipasi	1
+antusias	3
 antusiasme	1
 anugrah	1
 apresiasi	1
+apung	2
+arah yang benar	3
 arahan	1
+aset	2
+asmara	2
+asyik	1
+asyiknya	1
+atas	2
 atensi	1
+atraksi	2
+avid	2
+awet muda	2
 ayo	1
-bagus	1
-bahagia	1
+bagikan	1
+bagus	3
+bagus sekali	3
+bahagia	3
 bahagiakan	1
 bahagian	1
 bahu-membahu	1
-baik	1
+baik	2
+baik hati	2
 baik-baik	1
 bajik	1
 bakat	1
-bakti	1
 bala bantuan	1
 balas budi	1
 balas jasa	1
-bangga	1
+bangga	2
 bangkit	1
-bantu	1
-bantuan	1
-banyak	1
+bantuan	2
+banyak sekali	3
 banyak-banyak	1
+barang keren	3
 beasiswa	1
+beatifik	3
 bebas banjir	1
 bebas hambatan	1
 bebas murni	1
+bebaskan	2
 becus	1
 bekal	1
 beken	1
@@ -68,49 +95,55 @@ bekerja sama	1
 belajar	1
 belas kasih	1
 benah	1
-benar	1
+benar	2
 bening	1
 berakal	1
 berakhlak	1
 beramal	1
 beraneka ragam	1
 berangkulan	1
-berani	1
+berani	3
 berbagi	1
 berbahagia	1
 berbaikan	1
 berbakat	1
-berbakti	1
+berbakti	3
 berbangga	1
 berbinar-binar	1
 berbobot	1
 berbudaya	1
-berbudi	1
+berbudi luhur	2
 berbunga-bunga	1
 bercahaya	1
-berdamai	1
+bercanda	2
+berdamai	2
 berdaulat	1
 berdaya	1
 berdaya guna	1
 berdaya upaya	1
 berdecak kagum	1
+berdedikasi	2
 berdikari	1
+berdoa	1
 berempati	1
 beretika	1
 beretiket	1
 berfaedah	1
 berfungsi	1
+bergabung	1
 bergandengan	1
+bergantung	2
 bergizi	1
 bergotong-royong	1
-berguna	1
+berguna	2
 berhadiah	1
-berharap	1
+berharap	2
 berharga	1
-berhasil	1
+berhasil	2
 berhemat	1
 berihtiar	1
 berijtihad	1
+berikan	1
 berikhtiar	1
 berikrar	1
 beriktikad	1
@@ -119,18 +152,27 @@ berimbang	1
 berinisiatif	1
 berinovasi	1
 beritikad	1
+berjanji	1
 berjaya	1
+berjudul	1
+berkah	3
+berkeinginan	2
+berkelas	3
 berkembang pesat	1
 berkesinambungan	1
 berkhasiat	1
 berkibar	1
+berkilau	3
+berkomitmen	1
 berkontribusi	1
 berkoordinasi	1
 berkreasi	1
 berkualitas	1
+berlian	1
 berlimpah	1
 bermaaf-maafan	1
-bermanfaat	1
+bermakna	2
+bermanfaat	2
 berminat	1
 bermoral	1
 bermusyawarah	1
@@ -139,6 +181,7 @@ berolah raga	1
 berpeluang	1
 berpelukan	1
 berpengalaman	1
+berpengaruh	2
 berprestasi	1
 bersabar	1
 bersahabat	1
@@ -150,19 +193,24 @@ bersama-sama	1
 bersatu	1
 bersatu padu	1
 bersedia	1
+bersemangat	1
 bersesuaian	1
+bersih	2
 bersilaturahmi	1
 bersimpati	1
 bersinergi	1
 bersopan santun	1
-bersorak	1
+bersorak	2
 bersorak sorai	1
 bersosialisasi	1
+bersukacita	4
+bersukacitalah	4
 bersukaria	1
-bersyukur	1
-bertahan	1
+bersyukur	3
+bertahan hidup	2
 bertahap	1
 bertalenta	1
+bertanggung jawab	2
 bertasawuf	1
 bertasbih	1
 bertasyakur	1
@@ -170,92 +218,124 @@ bertaubat	1
 bertawakal	1
 bertekad	1
 bertepa salira	1
+bertepuk tangan	2
 berterima kasih	1
 berterus terang	1
 bertobat	1
-beruntung	1
+beruntung	2
 berupaya	1
 berusaha	1
 berwawasan	1
 berwibawa	1
 berzakat	1
 berzikir	1
+besar	1
 betul	1
 bhinneka	1
 bibit unggul	1
-bijak	1
-bijaksana	1
+bijaksana	2
+bimbingan	1
 bintang kelas	1
 bintang lapangan	1
 bintang panggung	1
-bisa	1
 bismillah	1
+blockbuster	3
+boleh juga	1
 bombastis	1
 bonafid	1
 bonafide	1
 bonafit	1
 bonus	1
-brilian	1
+brilian	4
 buah hati	1
 buah karya	1
 budi pekerti	1
 budiman	1
+bunga	1
+bungkar	1
 cakap	1
 cakep	1
-canggih	1
+canggih	2
+cantik	3
+capai	2
 cekatan	1
 cemerlang	1
 cendekia	1
 cendekiawan	1
-cepat	1
-cerdas	1
+cepat	2
+cepat sembuh	1
+cerah	1
+cerdas	2
 cerdik	1
-ceria	1
+ceria	2
 cermat	1
 cermati	1
-cita	1
+cinta	3
 cita-cita	1
+cium	2
 cocok	1
 cukup	1
 cuma-cuma	1
-damai	1
+damai	2
+dapat dibenarkan	2
+dapat dicapai	1
 daur ulang	1
-daya guna	1
 daya gunakan	1
-daya upaya	1
-decak kagum	1
+daya tarik	2
+debonair	2
 demokrasi	1
 demokratis	1
+dengan aman	1
+dengan bangga	2
+dengan berani	2
+dengan cepat	2
+dengan damai	2
+dengan elegan	2
+dengan gembira	3
+dengan ketat	3
+dengan riang	3
+dengan sempurna	3
+dengan senang hati	3
+dengan sigap	2
+dengan tulus	2
 devisa	1
-dewasa	1
+dewasa	2
 diaktifkan	1
 diakui	1
 diakurkan	1
+diamankan	2
 diamini	1
 diaminkan	1
+diampuni	2
 diandalkan	1
 dianjurkan	1
 dianugerahi	1
 dianugerahkan	1
 dianugrahkan	1
 diarahkan	1
+dibagikan	1
 dibaguskan	1
 dibahagiakan	1
 dibaikkan	1
 dibanggakan	1
 dibantu	1
+dibebaskan	2
+dibebaskan dari tuduhan	2
 dibekali	1
 dibekalkan	1
 dibela	1
 dibenahi	1
+dibenarkan	2
 diberdayakan	1
+diberikan	3
 diberitahu	1
+diberkati	2
 dibina	1
-dicapai	1
 dicerdaskan	1
 diceriakan	1
 dicermati	1
 dicermatkan	1
+dicintai	3
 didamaikan	1
 didaur ulang	1
 didayagunakan	1
@@ -263,6 +343,8 @@ didayaupayakan	1
 didik	1
 didonasikan	1
 didonorkan	1
+didorong	2
+didukung	1
 diedukasi	1
 diedukasikan	1
 diefektifkan	1
@@ -273,18 +355,21 @@ digapai	1
 digratiskan	1
 dihadiahi	1
 dihadiahkan	1
-dihargai	1
+dihapus	1
+dihargai	2
 diharmoniskan	1
 dihemat	1
 dihibur	1
 dihijaukan	1
-dihormati	1
+dihormati	2
+diinginkan	2
 dikaji kembali	1
 dikakgumi	1
 dikaruniai	1
 dikaruniakan	1
 dikaryakan	1
 dikasihi	1
+dikejar	1
 diketahui	1
 diklarifikasi	1
 dikokohkan	1
@@ -300,6 +385,7 @@ dilimpahkan	1
 dilindungi	1
 diluhurkan	1
 dilunasi	1
+diluncurkan	1
 dimaafkan	1
 dimerdekakan	1
 diminati	1
@@ -321,28 +407,36 @@ dipercakap	1
 dipercakep	1
 dipercanggih	1
 dipercantik	1
-dipercaya	1
+dipercaya	2
 dipercepat	1
 diperdamai	1
 diperelok	1
 dipererat	1
 diperkenankan	1
+diperkuat	2
 diperlancar	1
 diperlapang	1
 dipermudah	1
+diperoleh	2
 dipersatukan	1
 dipersolid	1
 dipertampan	1
 diprioritaskan	1
+dipromosikan	1
 diproses	1
 dipuaskan	1
 dipulihkan	1
 diraih	1
 dirampungkan	1
 dirangkul	1
+dirangsang	1
 dirapihkan	1
 dirapikan	1
+diratifikasi	2
 dirawat	1
+dirayakan	3
+diredakan	2
+direkomendasikan	2
 direnungi	1
 direnungkan	1
 direstui	1
@@ -353,14 +447,21 @@ diridoi	1
 dirohmati	1
 dirukunkan	1
 disadarkan	1
+disambut	1
 disanjung	1
 disanjung-sanjung	1
 disantuni	1
 disapu bersih	1
 disatukan	1
-disayangi	1
+disayangi	2
+diselamatkan	2
+disembah	3
+disempurnakan	2
 diserahkan	1
-disetujui	1
+diserap	1
+disetujui	2
+disiapkan	1
+disimpan	2
 disingsingkan	1
 disolidkan	1
 distabilkan	1
@@ -368,79 +469,95 @@ disterilkan	1
 distimulasi	1
 disubsidi	1
 disucikan	1
-disukai	1
+disukai	2
 disukseskan	1
 disyukuri	1
 ditaati	1
 ditabahkan	1
 ditauladani	1
+ditebus	2
 ditekuni	1
 diteladani	1
 ditenangkan	1
 ditenteramkan	1
 ditentramkan	1
+ditentukan	2
 ditepati	1
 diterangi	1
 diterima	1
 ditertibkan	1
 ditindaklanjuti	1
+ditingkatkan	1
 ditolong	1
 dituntun	1
 diunggulkan	1
-diuntungkan	1
+diuntungkan	2
 diupayakan	1
 diusahakan	1
 diutamakan	1
+divalidasi	1
 doakan	1
-donasi	1
 donatur	1
-donor	1
-dorong	1
-dukungan	1
+dorong	2
+dorongan	2
+dukung	2
+dukungan	2
 dzikir	1
-edukasi	1
 edukatif	1
-efektif	1
+efektif	2
 efisien	1
 ekonomis	1
+eksklusif	2
+eksplorasi	1
 ekspres	1
-elegan	1
+elegan	2
 elite	1
-elok	1
 eloknya	1
-empati	1
-enak	1
+empatik	2
+enak	3
 enak-enak	1
+energik	2
 enteng	1
 esensial	1
 estetik	1
 estetis	1
-etis	1
+etis	2
+euforia	3
 evaluasi	1
-faedah	1
 fakta	1
 faktual	1
 fantastis	1
 fasih	1
-favorit	1
+favorit	2
 fenomenal	1
 final	1
 fitrah	1
-gagah	1
+fokus	2
+ftw	3
+funky	2
+gagah	3
 gampang	1
 ganteng	1
-gapai	1
 gegap gempita	1
+geli	3
+gembira	3
 gemilang	1
+gemuk	2
 genius	1
 genjot	1
 giat	1
 gigih	1
 gilang-gemilang	1
-gotong-royong	1
+glamor	3
+gratifikasi	2
 gratis	1
 gunanya	1
-hadiah	1
+ha	2
+hadiah	2
+haha	3
+hahaha	3
+hahahah	3
+hak milik	1
 hak mutlak	1
 hakikat	1
 hakiki	1
@@ -448,135 +565,159 @@ halal	1
 halal bihalal	1
 halalbihalal	1
 handal	1
+hangat	1
 happy	1
-harapan	1
+harap	1
+harapan	2
 harapkan	1
-harmoni	1
-harmonis	1
+hargai	2
 harmonisasi	1
-hebat	1
-heroik	1
+harta karun	2
+hati-hati	2
+heroik	3
 hibah	1
-hibur	1
+hiburan	3
 hidayah	1
 hidmat	1
 hidup	1
+hidup kembali	2
+hidupkan kembali	2
 higienis	1
 hikmah	1
 hits	1
 hoki	1
-hore	1
-hormat	1
+hore	5
 hormat-menghormati	1
-hormati	1
+humor	2
 humoris	1
 husnul khatimah	1
 ibadah	1
 ideal	1
 ihsan	1
-ihtiar	1
-ijtihad	1
 ikhlas	1
-ikhtiar	1
-iktikad	1
 ilmiah	1
 iman	1
 impresif	1
 imut-imut	1
-indah	1
+indah	3
 informatif	1
-inisiatif	1
+ingin	1
+ingin tahu	2
 inovasi	1
-inovatif	1
+inovatif	2
 inovator	1
 insaf	1
 insan	1
 insan kamil	1
 insentif	1
-inspirasi	1
+inspirasi	2
+inspiratif	2
 insya allah	1
-integritas	1
+integritas	2
 intelek	1
 intelektual	1
 inteligensi	1
 inteligensia	1
+intens	1
 intensif	1
+intrik	1
 irit	1
 islami	1
 istikharah	1
-istimewa	1
 istiqamah	1
-itikad	1
 itikaf	1
-izin	1
+izinkan	1
 jago	1
 jagoan	1
+jaminan	1
 jangan dulu	1
+jangkauan	1
+janji	1
 jawaban	1
 jelas	1
-jelaskan	1
 jempolan	1
+jengkel	2
 jenius	1
 juara	1
-jujur	1
-kagum	1
-kaji	1
-kamil	1
+jujur	2
+kagum	3
+kagumi	3
 kampiun	1
 kapabel	1
 karib	1
 karisma	1
 karismatik	1
-karunia	1
-kasih	1
+karya agung	4
+kasih karunia	1
+kasih sayang	3
+kaya	2
+keadilan	2
+keajaiban	3
 keakraban	1
+keamanan	1
 keanggunan	1
+kebahagiaan	3
 kebaikan	1
 kebajikan	1
+kebal	1
 kebanggaan	1
+kebebasan	2
 kebenaran	1
+keberanian	2
 keberhasilan	1
 kebersamaan	1
-keberuntungan	1
+keberuntungan	3
+kebugaran	1
 kebulatan suara	1
 kebulatan tekad	1
 kecakapan	1
 kecekatan	1
 kecemerlangan	1
+kecerahan	1
 keelokan	1
+kegembiraan	3
 kegemilangan	1
 kegeniusan	1
 kegigihan	1
+kegunaan	2
+kehangatan	2
 kehebatan	1
-kehormatan	1
+kehormatan	2
 keikhlasan	1
-keindahan	1
+keindahan	3
+keinginan	1
 keistimewaan	1
 kejayaan	1
-kejelasan	1
+kejelasan	2
 kejeniusan	1
 kejujuran	1
 kekaguman	1
+kekasih	3
+kekayaan	3
 kekeluargaan	1
 kekhidmatan	1
 kekhusukan	1
 kekhusyukan	1
+kekuatan	2
 kelancaran	1
 kelapangan	1
 kelebihan	1
 kelembutan	1
 kelezatan	1
-kemajuan	1
+kemajuan	2
 kemakmuran	1
-kemampuan	1
+kemampuan	2
 kemandirian	1
 kemantapan	1
-kemenangan	1
+kemauan	2
+kembalikan	1
+kemenangan	4
 kemeriahan	1
 kemudahan	1
-kemuliaan	1
+kemuliaan	2
+kemungkinan	2
 kenikmatan	1
-kenyamanan	1
+kenyamanan	2
 kepedulian	1
 kepercayaan	1
 keramahan	1
@@ -585,48 +726,52 @@ keridaan	1
 keridhaan	1
 keridhoan	1
 keridoan	1
-kerja	1
 kerukunan	1
 kesabaran	1
 kesanggupan	1
 keselarasan	1
+kesempatan	2
+kesenangan	2
 kesepakatan	1
 kesesuaian	1
+kesetiaan	3
 keshalehan	1
-kesinambungan	1
-kesopanan	1
+kesopanan	2
+kesukaan	2
 kesuksesan	1
 ketaatan	1
 ketabahan	1
+ketat	3
 ketawakalan	1
 ketegarab	1
 ketekunan	1
 keteladanan	1
 ketenangan	1
+ketenaran	1
 ketentraman	1
 keterbukaan	1
 ketertiban	1
-keunggulan	1
-keuntungan	1
+ketulusan	2
+keunggulan	3
+keuntungan	2
 kewajiban	1
 kewenangan	1
-keyakinan	1
+keyakinan	2
 kharisma	1
 kharismatik	1
-khidmat	1
-khusyuk	1
-klarifikasi	1
-kokoh	1
+kipas angin	3
 kolaborasi	1
+komedi	1
 komersial	1
 komfortabel	1
-komitmen	1
+komitmen	2
 kompak	1
 kompatibel	1
-kompeten	1
+kompeten	2
 kompetensi	1
+kompetitif	2
 komplet	1
-komprehensif	1
+komprehensif	2
 komunikasi	1
 komunikatif	1
 kondusif	1
@@ -638,62 +783,79 @@ konsistensi	1
 konstan	1
 kontinu	1
 kooperatif	1
-koordinasi	1
-kreasi	1
-kreatif	1
+kreatif	2
 kreativitas	1
-kuat	1
+kuasa	1
+kuat	2
 lailatul kadar	1
 lailatul qadar	1
 lailatulkadar	1
 lailatulqadar	1
-lancar	1
-langgeng	1
+lakukan	1
 langsing	1
+lanjutan	1
 laporkan	1
-layak	1
+lawl	3
+layak	2
+lebih baik	2
+lebih bersih	2
+lebih besar	3
+lebih kuat	2
+lebih licin	2
+lebih lucu	4
+lebih pintar	2
 lega	1
 legal	1
 legendaris	1
 leluasa	1
-lembut	1
-lerai	1
-lezat	1
-lincah	1
+lembut	2
+lepaskan	2
+libatkan	1
+licin	2
+lincah	2
+lindungi	1
+lmao	4
+lmfao	4
 logis	1
+lol	3
 lolos	1
 loyal	1
 loyalitas	1
-luar biasa	1
-lucu	1
-luhur	1
+luar biasa	4
+luaskan	1
+lucu	2
 lulus	1
-lunas	1
+lunak	1
+lurus	1
 luwes	1
+maafkan	1
 mabrur	1
+mahakarya	4
 mahir	1
-maju	1
-makan	1
-makmur	1
+makmur	3
 mampu	1
-mandiri	1
-manfaat	1
+manfaat	2
+manis	2
 manjur	1
-mantap	1
 masuk akal	1
 masukan	1
 masyhur	1
+materi	1
+medali	3
+meditatif	1
 megah	1
+melakukan	1
 melancarkan	1
 melanggengkan	1
 melapangkan	1
 melaporkan	1
-melegakan	1
+melegakan	2
 melerai	1
 meleraikan	1
 melestarikan	1
 melezatkan	1
 melindungi	1
+meluas	1
 meluhurkan	1
 melunasi	1
 meluruskan	1
@@ -703,17 +865,21 @@ memahami	1
 memajukan	1
 memakmurkan	1
 memantapkan	1
+memastikan	1
 mematuhi	1
 membaguskan	1
 membahagiakan	1
-membaik	1
+membaik	2
 membalas budi	1
 membanggakan	1
 membangkitkan	1
 membangun	1
-membantu	1
+membantu	2
 membawa revolusi	1
+membebaskan	2
+membela diri	2
 membenahi	1
+membenarkan	2
 memberbaiki	1
 memberdayakan	1
 memberi kesempatan	1
@@ -722,11 +888,14 @@ membesarkan	1
 membetulkan	1
 membulatkan hati	1
 membulatkan tekad	1
+memecahkan	1
 memenagkan	1
 memenangkan	1
-memenuhi	1
+memenuhi	2
 memenuhi persyaratan	1
 memerdekakan	1
+memikat	3
+memiliki hak istimewa	2
 memopulerkan	1
 memotivasi	1
 memperaman	1
@@ -735,12 +904,13 @@ memperbaiki	1
 memperbantukan	1
 memperbarui	1
 mempercanggih	1
-mempercantik	1
+mempercantik	3
 mempercerdas	1
 memperdamai	1
 mempererat	1
 memperhatikan	1
 memperindah	1
+memperkuat	2
 memperlancar	1
 memperlapang	1
 mempermudah	1
@@ -751,40 +921,48 @@ mempersukses	1
 mempertampan	1
 mempertemukan	1
 mempertimbangkan	1
+mempesona	3
+mempromosikan	1
 memuaskan	1
 memudahkan	1
-memuji	1
+memuji	3
 memukau	1
 memuliakan	1
 memulihkan	1
 memurnikan	1
 memusyawarahkan	1
+memvalidasi	1
 menaati	1
-menakjubkan	1
-menang	1
-menarik	1
+menakjubkan	5
+menang	4
+menarik	2
 menauladani	1
-mencerahkan	1
+menawan	3
+mencapai	1
+mencengangkan	3
+mencerahkan	2
 mencerdaskan	1
 menceriakan	1
-mendamaikan	1
+mendamaikan	2
 mendapat tempat	1
+mendapatkan	2
 mendayagunakan	1
 mendayaupayakan	1
 mendonasikan	1
 mendonorkan	1
-mendorong	1
-mendukung	1
+mendorong	2
+mendukung	2
 menegakkan	1
 meneladani	1
-menenangkan	1
+menenangkan	2
 menengahi	1
 menentramkan	1
 menepati	1
 menerima	1
 menertibkan	1
 menetapkan	1
-mengagumi	1
+mengadopsi	1
+mengagumi	3
 mengagumkan	1
 mengakrabkan	1
 mengakurkan	1
@@ -796,18 +974,22 @@ menganugerahi	1
 menganugrahi	1
 menganugrahkan	1
 mengasah	1
+mengasyikkan	3
 mengedukasi	1
 mengedukasikan	1
 mengefektifkan	1
+mengembang	1
 mengerti	1
 menggalakkan	1
 menggapai	1
+menggemaskan	3
+menggembirakan	3
 menggenjotkan	1
 menggiatkan	1
 menggugah	1
 menghadiahkan	1
 menghadiri	1
-menghargai	1
+menghargai	2
 mengharmoniskan	1
 mengharu biru	1
 mengharukan	1
@@ -815,28 +997,31 @@ mengharumkan	1
 menghayati	1
 menghemat	1
 menghentikan	1
-menghibur	1
+mengherankan	2
+menghibur	3
 menghijaukan	1
-menghormati	1
+menghormati	2
 mengilhami	1
 mengimbangi	1
 mengingatkan	1
 menginovasikan	1
 menginsafi	1
 menginsafkan	1
-menginspirasi	1
+menginspirasi	2
 menginspirasikan	1
 mengisi	1
 mengokohkan	1
 mengoptimalkan	1
 mengukuhkan	1
 mengulurkan tangan	1
+mengundang	1
 mengungguli	1
 mengungkap	1
 mengungkap kasus	1
-menguntungkan	1
+menguntungkan	2
 mengupayakan	1
 mengusahakan	1
+menikmati	2
 menimba ilmu	1
 menindak	1
 menindaklanjuti	1
@@ -846,11 +1031,13 @@ menjadi sama	1
 menjaga	1
 menjaring	1
 menjawab	1
+menjelaskan	2
 menjembatani	1
 menjernihkan	1
 menjinakkan	1
 menjiwai	1
 menolong	1
+menonjol	2
 menstabilkan	1
 mensucikan	1
 mensyukuri	1
@@ -862,31 +1049,36 @@ menyadari	1
 menyadarkan	1
 menyayangi	1
 menyeimbangkan	1
-menyelamatkan	1
+menyelamatkan	2
 menyelaraskan	1
-menyelesaikan	1
+menyelesaikan	2
+menyenangkan	2
 menyesuaikan	1
-menyetujui	1
+menyetujui	2
 menyinergikan	1
 menyingkronkan	1
 menyingsingkan	1
 menyinkronkan	1
 menyucikan	1
-menyukai	1
+menyukai	2
 menyukseskan	1
 merahmati	1
 meraih	1
 merampungkan	1
 merangkul	1
+merangsang	1
 merapihkan	1
 merapikan	1
 merawat	1
+merayakan	3
 merdu	1
+meredakan	1
+merekomendasikan	2
 meremajakan	1
 merenungi	1
 merenungkan	1
 merestui	1
-meriah	1
+meriah	2
 meridai	1
 meridhai	1
 meridhoi	1
@@ -894,81 +1086,104 @@ meridoi	1
 meringankan	1
 merohmati	1
 merukunkan	1
+metodis	2
+meyakinkan	1
+mimpi	1
+minat	1
+minta maaf	1
 momentum	1
 motivasi	1
-mudah	1
+mudah	2
 mudah-mudahan	1
 mufakat	1
 mujarab	1
 mujur	1
-mulia	1
+mulia	2
 multi fungsi	1
 multi guna	1
 multifungsi	1
 multiguna	1
 mulus	1
 mumpuni	1
-murah	1
-murni	1
+murah hati	2
 mustajab	1
-musyawarah	1
 mutakhir	1
 naik	1
 ngetop	1
 ngetren	1
-nikmat	1
+nikmat	3
+nikmati	2
 nilai tambah	1
 nomor wahid	1
 normal	1
-nyaman	1
+novel	2
+nyaman	2
 objektif	1
 obyektif	1
-ok	1
-optimal	1
-optimis	1
-optimisme	1
+oks	2
+optimis	2
+optimisme	2
 optimistis	1
 orisinal	1
 orisinalitas	1
 orisinil	1
-pahlawan	1
+otoritas	1
+padat	2
+pahlawan	2
 pakar	1
+paling cerdas	2
+paling licin	2
+paling terang	2
+paling tulus	2
 pandai	1
 pantas	1
 panutan	1
+pas	1
+pasti	1
+pastikan	1
+pasukan	1
 patroli	1
-patuh	1
-peduli	1
+peduli	2
 pegangan	1
 pejuang	1
-pekerti	1
 pelancaran	1
 pelayanan	1
 peleraian	1
 pelestarian	1
 pelipur	1
+peluang	2
+peluk	1
+pelukan	2
 pemaaf	1
 pemantapan	1
 pembangunan negara	1
 pembangunan umat	1
 pembaruan	1
+pembela	2
 pembenahan	1
+pemberani	2
 pemberdayaan	1
+pemberian	1
 pembulatan tekad	1
+pemecahan	1
+pemenang	4
 pemeriksaan	1
 pemersatu	1
 pemersatuan	1
+penasaran	1
 pencari ilmu	1
 pencarian	1
 pencerahan	1
 pendidik	1
 pendonasian	1
 pendonor	1
+pendukung	1
 penegakan	1
 penemu	1
 penengah	1
 penerang	1
 pengampunan	1
+pengangkatan	2
 pengantisipasian	1
 penganugerahan	1
 pengembangan	1
@@ -976,226 +1191,283 @@ pengertian	1
 penggalakan	1
 penggiatan	1
 penggugah	1
-penghargaan	1
+penghargaan	2
 penghijauan	1
 pengoptimalan	1
 peningkatan	1
+penjangkauan	2
 penjelasan	1
 penjernihan	1
 penolong	1
 penstabilan	1
-penting	1
+penting	2
+pentingnya	2
+penuh harapan	2
+penuh kasih	2
+penuh kemenangan	4
+penuhi	2
 penuntun	1
 penurut	1
 penyabar	1
 penyantun	1
 penyantunan	1
 penyatuan	1
-penyayang	1
+penyayang	2
+penyelamat	4
+penyelamatan	2
 penyuksesan	1
+peraih	1
 peran kunci	1
-perbaikan	1
+perasaan	1
+perbaikan	2
 percaya	1
+percaya diri	2
+percikan	1
 perdamaian	1
-perhatian	1
+perhatian	2
+periang	2
 perkembangan	1
+perkuat	2
+permata	1
+perpanjang	1
 persahabatan	1
 persaudaraan	1
+persetujuan	1
 pertaubatan	1
 pertobatan	1
 pertolongan	1
-pertumbuhan	1
+pertumbuhan	2
 perundingan	1
+pesona	3
+petualang	2
+petualangan	2
 petunjuk	1
-pintar	1
-populer	1
-positif	1
+pintar	2
+plus	1
+populer	3
+positif	2
 potensi	1
 potensial	1
 praktis	1
 preseden	1
 presisi	1
-prestasi	1
 prestise	1
 prestisius	1
 prima	1
 primadona	1
-prioritas	1
-proaktif	1
+proaktif	2
 produktif	1
 profesional	1
 profit	1
+promosikan	1
 proporsional	1
+prospek	1
 prospektif	1
 proteksi	1
-puas	1
-pulih	1
+puas	2
+puji	2
+pujian	3
+puncak	2
+punggung	1
 rahman	1
-rahmat	1
 rajin	1
-ramah	1
-ramah tamah	1
-rampung	1
-rapi	1
-rapih	1
+ramah	2
+ramah tamah	2
 rasional	1
 rasul	1
+rayakan	3
 realistis	1
 reformasi	1
+rekomendasikan	2
 rekonsiliasi	1
 relawan	1
 relevan	1
 relevansi	1
 relevansinya	1
 reliabel	1
+relokasi	1
 renungan	1
 resmi	1
-responsif	1
+responsif	2
+revitalisasi	1
 revolusioner	1
 rezeki	1
-riang	1
-rida	1
-ridha	1
-ridho	1
-rido	1
+riang	2
 rileks	1
 riset	1
-rohmat	1
-rukun	1
+rofl	4
+roflcopter	4
+roflmao	4
+rotfl	4
+rotflmfao	4
+rotflol	4
+rumit	2
 rupawan	1
-sabar	1
-sadar	1
+saham	1
 sakinah	1
 saksama	1
+salam	1
 saleh	1
 salehah	1
 saling tegur	1
 salut	1
-sanggup	1
-santun	1
-satu padu	1
-sayang	1
+sangat gembira	4
+sangkal	1
+santai	2
+sayang	3
 sebaik-baiknya	1
 sebesar mungkin	1
+secara hukum	1
+secara mengejutkan	3
+secara positif	2
+secara substansial	1
 secepatnya	1
 seefektif	1
+segar	1
+sehat	2
 seimbang	1
 sejalan	1
-selamat	1
-selaras	1
-selesai	1
-selesaikan	1
+sekali seumur hidup	3
+seksi	3
+selamat	2
+selamat datang	2
+selamat menikmati	2
+selesaikan	2
+semacam	0
 semangat	1
-semoga	1
-senang	1
+semoga	2
+sempurna	3
+senang	3
+sendok	3
+sepenuh hati	3
 serius	1
-sesuai	1
+setia	3
 setuju	1
-shaleh	1
 shalehah	1
 shalihah	1
 sholeh	1
-siap	1
+sia-sia	2
+signifikan	1
+signifikansi	1
 silahkan	1
-silaturahmi	1
-simpati	1
+simpan	2
+simpati	2
+simpatik	2
+sinar matahari	2
 sistematik	1
 sistematis	1
 siuman	1
 sobat	1
 sohib	1
-solid	1
-solidaritas	1
+solidaritas	2
 solider	1
 solusi	1
-sopan	1
-sopan santun	1
+sopan	2
 sorga	1
+sorot	2
 spektakuler	1
 spesial	1
 sportif	1
 sportivitas	1
-stabil	1
-steril	1
+stabil	2
+stamina	2
 strategis	1
-subsidi	1
-suci	1
+substansial	1
 sudah berupaya	1
 sudah berusaha	1
 sudah dilakukan	1
-sukaria	1
-sukses	1
+suka	2
+sukses	2
+sumbangan	1
+sungguh-sungguh	2
+super	3
+superior	2
+surga	2
+surgawi	4
 syukuran	1
-taat	1
-tahu	1
+tabah	2
 tak ada banding	1
 tak ada bandingan	1
 tak ada tandingan	1
-talenta	1
-tampan	1
+tak kenal takut	2
+tak terhentikan	2
+tak terkalahkan	2
+tak tertahankan	2
+tak tertandingi	2
 tangguh	1
-taubat	1
-tauladan	1
+tanpa beban	1
+tarik	1
 tawaduk	1
-tawakal	1
-tegar	1
+tawar-menawar	2
+tebal	2
 tegas	1
 teguh	1
-tekad	1
-tekun	1
-teladan	1
 telah berjalan	1
-tenteram	1
-tentram	1
-tepa salira	1
+tenang	2
+tenangkan	2
+tengara	2
 tepat guna	1
 tepat sasaran	1
-tepati	1
+tepercaya	2
+tepuk tangan	2
 terahmati	1
 terawat	1
-terbaik	1
+terbaik	3
 terbantu	1
 terbarukan	1
 terbiasa	1
 terbrilian	1
+terbukti benar	2
 tercakap	1
 tercakep	1
 tercanggih	1
 tercangging	1
 tercantik	1
+tercapai	1
+tercengang	2
+tercerahkan	2
 tercerdas	1
 terdongkrak	1
 teredukasi	1
 terfavorit	1
 terfenomenal	1
 tergapai	1
+tergila-gila	2
 terharu	1
-terhebat	1
+terhebat	3
 terhibur	1
-terhormat	1
-terima kasih	1
+terhormat	2
+terima	1
+terima kasih	2
 terindah	1
 terinformasi	1
-terinspirasi	1
+terinspirasi	2
 teristimewa	1
 terjangkau	1
 terkagum-kagum	1
 terkasih	1
 terkenal	1
 terkendali	1
+terkesan	3
 terkirim	1
+terkuat	2
 terlezat	1
+terlibat	1
 terlincah	1
 termasyhur	1
-termotivasi	1
+termotivasi	2
 ternama	1
+terobosan	3
+terobsesi	2
 terohmati	1
 terpana	1
 terpandai	1
 terpandang	1
+terpenuhi	2
+terpesona	3
 terpilih	1
 terpintar	1
-terpuji	1
+terpuji	2
 terpukau	1
 tersabar	1
 tersadar	1
@@ -1203,6 +1475,8 @@ tersadarkan	1
 tersantun	1
 tersantuni	1
 tersayang	1
+terselesaikan	2
+tersenyum	2
 tersipu	1
 tersipu-sipu	1
 tersohor	1
@@ -1214,12 +1488,12 @@ tersucikan	1
 tersukses	1
 tertaat	1
 tertampan	1
-tertib	1
+tertarik	1
+tertawa	1
 tertolong	1
 teruji	1
 terungkap	1
 terurus	1
-terus terang	1
 tetap di sini	1
 tiada banding	1
 tiada bandingan	1
@@ -1227,66 +1501,51 @@ tiada tandingan	1
 tidak ada banding	1
 tidak ada bandingan	1
 tidak ada tandingan	1
-toleran	1
+tidak apa-apa	1
+tidak bertanggung jawab	2
+tidak bias	2
+tidak bisa dihancurkan	2
+tidak ternoda	2
+tingkatkan	1
+toleran	2
 toleransi	1
+tolong	2
 tolong-menolong	1
 trofi	1
 tropi	1
-tulus	1
+tuhan	1
+tulus	2
+tumbuh	1
 tuntas	1
-tuntun	1
 tuntunan	1
 ukhuwah	1
 ulet	1
-unggul	1
-unggulan	1
-unik	1
+undang	1
+undefined	3
+unggulan	2
+untungnya	3
 usulan bersama	1
 usulan masyarakat	1
-valid	1
+utuh	2
+validasi	1
+visi	1
 visibel	1
-wah	1
+visioner	3
+visioning	1
+vitalitas	3
+vitamin	1
 wajar	1
 wajar-wajar	1
-wibawa	1
+winwin	3
+woo	3
+woohoo	3
+wooo	4
+woow	4
+wow	4
+wowww	4
+ya	1
+ya ampun	3
 yahud	1
-yakin	1
-accord	1
-asyik	1
-asyiknya	1
-bimbingan	1
-aduhai	1
-boleh juga	1
-maaf	1
-minta maaf	1
-sehat	1
-suka	1
-cinta	1
-dikejar	1
-tidak apa-apa	1
-cepat sembuh	1
-imut	1
-adil	1
-manis	1
-lebih baik	1
-mengaku	1
-sumbangan	1
-menggemaskan	1
-bela	1
-dukung	1
-tetap	1
-hati	1
-humor	1
-legenda	1
-sangkal	1
-peraih	1
-plus	1
-bintang	1
-tertawa	1
-tawa	1
-kuasa	1
-pilih	1
-bungkar	1
-relokasi	1
-revitalisasi	1
-pasukan	1
+yakin	2
+yakinkan	1
+yesus	1

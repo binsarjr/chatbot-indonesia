@@ -1,43 +1,86 @@
+abaikan	-2
+absen	-1
+abu-abu	-1
 acak-acakan	-1
+acuh tak acuh	-2
 adu	-1
 adu domba	-1
-aib	-1
+agresi	-2
+agresif	-2
+ahoker	-1
+aib	-2
+air mata	-2
 akal bulus	-1
+akting	-1
+akui	-1
+alarm	-2
+alarmis	-2
+alarmist	-2
 alasan saja	-1
+alat tenun	-1
+alergi	-2
 alibi	-1
+alihkan perhatian	-2
 aliran	-1
+amarah	-3
 amatir	-1
 ambisi	-1
 ambisius	-1
-ambruk	-1
+ambivalen	-1
+ambruk	-2
 amburadul	-1
 ampas	-1
 amputasi	-1
 amuk	-1
 anarkis	-1
-ancam	-1
-ancaman	-1
-aneh	-1
+ancaman	-2
+aneh	-2
+anehnya	-1
 angin kencang	-1
+antagonis	-2
+anti	-1
 apa boleh buat	-1
-apatis	-1
-asal	-1
+apa sih	-1
+apatis	-3
+apeshit	-3
+apokaliptik	-2
+arogan	-1
+asal bunyi	-1
+asal jadi	-1
+asal tulis	-1
+ashame	-2
+asli tapi palsu	-1
+asli tetapi palsu	-1
+avert	-1
+averts	-1
+ayam	-5
 babak belur	-1
 bacokan	-1
+bacot	-1
+badass	-3
 bagaimana mau	-1
 bagaimana mungkin	-1
-bahaya	-1
+bahan peledak	-1
+bahaya	-2
 bahayakan	-1
+bajingan	-5
 bakteri	-1
 baku hantam	-1
-balas dendam	-1
+balas dendam	-2
+balikin	-1
+bambuzle	-2
+bambuzles	-2
+banci	-1
 bandel	-1
+bandit	-1
 bangkai	-1
-bangkrut	-1
+bangkrut	-3
 bangsat	-1
 banjir	-1
-bantah	-1
+bankster	-3
 bantai	-1
+banting	-2
+banyak bicara	-1
 banyak cincong	-1
 banyak cingcong	-1
 banyak pertanyaan	-1
@@ -45,44 +88,59 @@ banyak tingkah	-1
 barbar	-1
 barbarisme	-1
 basi	-1
-batal	-1
 batalkan	-1
+batas	-1
+batasan	-1
+batasi	-2
 batuk-batuk	-1
 bawah tangan	-1
+bayar	-1
 bebal	-1
+beban	-2
 beber	-1
+bedebah	-4
 bekeluyuran	-1
 bekoar	-1
 belingsatan	-1
 belum begitu dekat	-1
-bencana	-1
+belum dapat	-1
+belum dikonfirmasi	-1
+bencana	-3
+benci	-3
 bengis	-1
 bengkak	-1
+bentrok	-2
 beracun	-1
 berakal bulus	-1
 beralkohol	-1
-berantakan	-1
-berbahaya	-1
+berandal	-2
+berang	-2
+berantakan	-2
+berbahaya	-2
 berbanding terbalik	-1
 berbantah-bantahan	-1
 berbantahan	-1
 berbelit-belit	-1
 berbenturan	-1
-berbohong	-1
+berbohong	-2
 berborok	-1
 bercampur aduk	-1
 berdaki	-1
 berdalih	-1
-berdarah	-1
+berdarah	-3
 berdarah dingin	-1
+berdebar	-1
 berdebat	-1
 berdemo	-1
 berdemonstrasi	-1
 berdesak-desakan	-1
 berdesakan	-1
-berdosa	-1
+berdosa	-3
+berduka	-2
 berduka cita	-1
+berduri	-2
 berdusta	-1
+bereaksi berlebihan	-2
 beresiko	-1
 berfoya-foya	-1
 bergelandangan	-1
@@ -93,7 +151,9 @@ bergontokan	-1
 bergosip	-1
 bergunjing	-1
 berhamburan	-1
-berhantu	-1
+berhantu	-2
+berhati berat	-2
+berhenti	-1
 berhura-hura	-1
 berhutang	-1
 beriba-iba	-1
@@ -105,12 +165,14 @@ berisiko	-1
 berjangkit	-1
 berjatuhan	-1
 berjejal	-1
+berjuang	-2
+berjubah	-2
 berjudi	-1
-berkabung	-1
+berkabung	-2
 berkacak pinggang	-1
 berkasak-kusuk	-1
 berkecamuk	-1
-berkecil hati	-1
+berkecil hati	-2
 berkedok	-1
 berkelahi	-1
 berkelainan	-1
@@ -123,7 +185,7 @@ berkhianat	-1
 berkilah	-1
 berkoar	-1
 berkoar-koar	-1
-berkolusi	-1
+berkolusi	-3
 berkomplot	-1
 berkonflik	-1
 berkongkalikong	-1
@@ -134,7 +196,7 @@ berkutu	-1
 berlagak	-1
 berlawanan	-1
 berlebih-lebihan	-1
-berlebihan	-1
+berlebihan	-2
 berleha-leha	-1
 berliku	-1
 berliku-liku	-1
@@ -144,13 +206,13 @@ berlubang	-1
 berlubang-lubang	-1
 bermadat	-1
 bermadu	-1
-bermasalah	-1
+bermasalah	-2
 bermegah-megah	-1
 bermesum	-1
 bermewah-mewah	-1
 bermewah-mewahan	-1
 bermuram	-1
-bermusuhan	-1
+bermusuhan	-2
 bernafsu	-1
 bernoda	-1
 berolok-olok	-1
@@ -158,7 +220,10 @@ berpaling	-1
 berpangku tangan	-1
 berpecah belah	-1
 berpenyakit	-1
+berperilaku buruk	-2
+berperkara hukum	-2
 berpidana	-1
+berpikiran tunggal	-2
 berpisah	-1
 berpolemik	-1
 berpongah-pongah	-1
@@ -166,10 +231,12 @@ berprasangka	-1
 berprasangka buruk	-1
 berpretensi	-1
 berpropaganda	-1
-berpura-pura	-1
+berpura-pura	-3
 berpusing-pusing	-1
-bersalah	-1
+bersaing	-1
+bersalah	-3
 bersandiwara	-1
+bersembunyi	-1
 bersikut-sikutan	-1
 bersikutan	-1
 bersilang sengketa	-1
@@ -179,22 +246,26 @@ bersimpang siur	-1
 bersinggungan	-1
 bersitegang	-1
 berspekulasi	-1
+bersumpah	-2
 bersungut	-1
 bersungut-sungut	-1
 bersusah hati	-1
 bersyubhat	-1
 bertabrakan	-1
 bertanggung jawab	-1
+bertarung	-1
 bertele-tele	-1
+bertempur	-1
 bertengkar	-1
-bertentangan	-1
-berteriak	-1
+bertentangan	-2
+berteriak	-2
 berteriak-teriak	-1
 bertikai	-1
 bertingkah	-1
 bertubrukan	-1
 bertumpang tindih	-1
 bertumpang-tindih	-1
+bertumpuk	-1
 berulah	-1
 berulat	-1
 berunjuk rasa	-1
@@ -207,18 +278,24 @@ biadab	-1
 biang keladi	-1
 biang kerusuhan	-1
 biangnya	-1
+bias	-1
+biasa-biasa saja	-3
+bicara sembarangan	-1
+bicara terus-terusan	-1
 bimbang	-1
 binasa	-1
-bingung	-1
+bingung	-2
 bintik	-1
+bla	-2
 blak-blakan	-1
+blok	-1
 blokir	-1
 bocor	-1
 bocoran	-1
-bodoh	-1
+bodoh	-3
+bodong	-1
 bogem	-1
-bohong	-1
-boikot	-1
+boikot	-2
 bokek	-1
 bolak-balik	-1
 bolong-bolong	-1
@@ -229,82 +306,88 @@ bordil	-1
 borgol	-1
 borjuis	-1
 boro-boro	-1
-borok	-1
 borokan	-1
 boros	-1
-bosan	-1
+bosan	-2
+brengsek	-4
 bt	-1
 bual	-1
 bualan	-1
+buang	-1
+buang-buang	-2
 buangan	-1
 buas	-1
+bugil	-1
 bukan-bukan	-1
 buku hitam	-1
 bulan tua	-1
 bulan-bulanan	-1
 bulukan	-1
-bungkam	-1
-buntu	-1
-bunuh	-1
-bunuh diri	-1
+bunuh	-3
+bunuh diri	-2
+buram	-2
 buron	-1
 buronan	-1
 buruh kasar	-1
-buruk	-1
+buruk	-3
 buruk sangka	-1
 busuk	-1
 busung lapar	-1
-buta huruf	-1
+buta	-1
+buta huruf	-2
 butut	-1
 buyar	-1
+buzzer	-1
 cabik	-1
-cabul	-1
-cacat	-1
+cabul	-2
+cacat	-3
 caci	-1
 caci maki	-1
 cacian	-1
 cacing	-1
-campur aduk	-1
+calo	-2
 candu	-1
-canggung	-1
+canggung	-2
 cape	-1
 cape hati	-1
 capek	-1
 capek hati	-1
 caplok	-1
 cari muka	-1
+cari perhatian	-1
 cari saja sendiri	-1
 cari sendiri	-1
 cari-cari kesalahan	-1
 carut	-1
 carut-marut	-1
-catut	-1
 catutan	-1
 cecar	-1
 cecaran	-1
-cedera	-1
+cedera	-2
+cegah	-1
+cegah tangkal	-1
 cek kosong	-1
 cekak	-1
-cekal	-1
+cekal	-2
 cekcok	-1
-cela	-1
 celaan	-1
-celaka	-1
 cemarkan	-1
-cemas	-1
+cemas	-2
 cemaskan	-1
 cemberut	-1
-cemburu	-1
+cemburu	-2
 cemburuan	-1
+cemoohan	-2
 cengeng	-1
 cerai	-1
 cerai-berai	-1
 cercaan	-1
-ceroboh	-1
-cibir	-1
-cibiran	-1
+cerdik	-2
+ceroboh	-2
+chastise	-3
+cibiran	-2
 cidera	-1
-cincong	-1
+ciut	-1
 colong	-1
 comel	-1
 comelan	-1
@@ -315,48 +398,51 @@ contekan	-1
 copet	-1
 coreng	-1
 coreng-moreng	-1
-cuci otak	-1
+cuci otak	-3
 cuci uang	-1
-culik	-1
+cucian hijau	-3
+cuek	-1
+cukong	-1
+culun	-1
 cuma	-1
-curang	-1
-curi	-1
+cupet	-2
+curang	-3
+curi	-2
 curian	-1
-curiga	-1
 curigaan	-1
 dablek	-1
 dadakan	-1
 daftar hitam	-1
 daif	-1
 dajal	-1
-daki	-1
 dakwa	-1
 dakwaan	-1
-dalih	-1
 dampak	-1
 damprat	-1
 dampratan	-1
-dana talangan	-1
-darah dingin	-1
+dana talangan	-2
+dapat digugat	-2
 darah tinggi	-1
+darurat	-2
 dauf	-1
-defisit	-1
+defisit	-2
 degenerasi	-1
 degeneratif	-1
-degradasi	-1
 dehidrasi	-1
 dekil	-1
-demo	-1
 demonstran	-1
 demonstrasi	-1
 demoralisasi	-1
-dendam	-1
 dendam kesumat	-1
+dengan buruk	-3
+dengan getir	-2
+dengan gila	-3
+dengan gugup	-2
+dengan menghina	-2
+dengan putus asa	-3
 dengki	-1
 deportasi	-1
-derita	-1
-desak	-1
-desakan	-1
+depresi	-2
 desas-desus	-1
 destruksi	-1
 detonasi	-1
@@ -368,15 +454,18 @@ dholim	-1
 dhuafa	-1
 di bawah sadar	-1
 di bawah umur	-1
-diabaikan	-1
+diabaikan	-2
 diacak-acak	-1
 diadili	-1
 diadu domba	-1
 diadudombakan	-1
+diakui	-1
 diam-diam	-1
 diamankan	-1
 diamlah	-1
 diancam	-1
+dianiaya	-2
+diatasi	-1
 diawasi	-1
 dibacok	-1
 dibakar	-1
@@ -385,7 +474,7 @@ dibangkrutkan	-1
 dibantah	-1
 dibantai	-1
 dibatalkan	-1
-dibatasi	-1
+dibatasi	-2
 dibawa kabur	-1
 dibawa-bawa	-1
 dibayang-bayangi	-1
@@ -393,12 +482,15 @@ dibebankan	-1
 dibeberkan	-1
 dibeda-bedakan	-1
 dibelenggu	-1
+dibenci	-3
+diberantas	-1
+dibesar-besarkan	-2
 dibinasakan	-1
 diblokir	-1
 dibocorkan	-1
 dibodohi	-1
 dibohongi	-1
-diboikot	-1
+diboikot	-2
 dibom	-1
 dibombardir	-1
 diborgol	-1
@@ -422,14 +514,16 @@ dicampuradukkan	-1
 dicaplok	-1
 dicatut	-1
 dicecar	-1
+dicegah	-1
 dicekal	-1
 dicekam	-1
-dicekik	-1
+dicekik	-2
 dicela	-1
 dicelakai	-1
 dicemari	-1
 dicemaskan	-1
 dicemburui	-1
+dicemooh	-2
 dicerca	-1
 dicibir	-1
 dicolong	-1
@@ -438,8 +532,9 @@ dicopet	-1
 dicopot	-1
 dicoreng	-1
 dicuci otak	-1
+diculik	-2
 dicurangi	-1
-dicuri	-1
+dicuri	-2
 dicurigai	-1
 didakwa	-1
 didakwakan	-1
@@ -453,10 +548,11 @@ didesas-desuskan	-1
 didhalimi	-1
 didholimi	-1
 didikte	-1
-didiskreditkan	-1
+didiskon	-1
+didiskreditkan	-2
 didiskriminasi	-1
 didiskriminasikan	-1
-didiskualifikasi	-1
+didiskualifikasi	-2
 didiskualifikasikan	-1
 diduai	-1
 diduakan	-1
@@ -465,14 +561,16 @@ diduga-duga	-1
 didustai	-1
 didustakan	-1
 didzalimi	-1
+diejek	-2
 dieksekusi	-1
-dieksploitasi	-1
+dieksploitasi	-2
 diekspos	-1
 dieliminasi	-1
 diempaskan	-1
 dienyahkan	-1
 difitnah	-1
 diforsir	-1
+digagalkan	-2
 digampangkan	-1
 digampar	-1
 diganggu	-1
@@ -503,7 +601,6 @@ digondol	-1
 digorok	-1
 digosipkan	-1
 digrecoki	-1
-digugat	-1
 digugurkan	-1
 digulingkan	-1
 diguna-guna	-1
@@ -520,6 +617,7 @@ dihalangi	-1
 dihambat	-1
 dihambur-hamburkan	-1
 dihamburkan	-1
+dihancurkam	-1
 dihancurkan	-1
 dihancurleburkan	-1
 dihanguskan	-1
@@ -530,9 +628,14 @@ dihardik	-1
 dihasut	-1
 dihempas	-1
 dihempaskan	-1
+dihentikan	-1
 dihina	-1
+dihindari	-1
 dihujat	-1
-dihukum	-1
+dihukum	-3
+diindoktrinasi	-2
+diinterogasi	-2
+diintimidasi	-2
 diisolasi	-1
 dijajah	-1
 dijambak	-1
@@ -547,7 +650,7 @@ dijiplak	-1
 dikacaubalaukan	-1
 dikacaukan	-1
 dikafirkan	-1
-dikalahkan	-1
+dikalahkan	-2
 dikambinghitamkan	-1
 dikasari	-1
 dikata-katai	-1
@@ -555,9 +658,11 @@ dikatai	-1
 dikebiri	-1
 dikecam	-1
 dikecewakan	-1
+dikecualikan	-2
 dikejar-kejar	-1
 dikekang	-1
 dikelabui	-1
+dikeluarkan	-2
 dikeluhkan	-1
 dikemplang	-1
 dikenai biaya	-1
@@ -565,12 +670,13 @@ dikenakan biaya	-1
 dikentutin	-1
 dikerangkeng	-1
 dikerdilkan	-1
+dikeringkan	-2
 dikeroyok	-1
 dikeruhkan	-1
 dikesalkan	-1
 dikesampingkan	-1
 dikhawatirkan	-1
-dikhianati	-1
+dikhianati	-3
 dikibuli	-1
 dikompori	-1
 dikontaminasi	-1
@@ -578,15 +684,16 @@ dikorbankan	-1
 dikorup	-1
 dikorupsi	-1
 dikotori	-1
-dikritik	-1
+dikritik	-2
 diktator	-1
+dikubur	-1
 dikucilkan	-1
 dikufurkan	-1
 dikungkung	-1
 dikuntit	-1
 dikurangi	-1
 dikurung	-1
-dikutuk	-1
+dikutuk	-2
 dilabrak	-1
 dilacurkan	-1
 dilaknat	-1
@@ -594,11 +701,11 @@ dilalaikan	-1
 dilambat-lambatkan	-1
 dilampiaskan	-1
 dilanda	-1
-dilanggar	-1
-dilarang	-1
+dilanggar	-2
+dilarang	-2
 dilawan	-1
 dilebih-lebihkan	-1
-dilecehkan	-1
+dilecehkan	-2
 diledakkan	-1
 diledek	-1
 diledeki	-1
@@ -606,7 +713,7 @@ dilema	-1
 dilemahkan	-1
 dilematik	-1
 dilematis	-1
-dilenyapkan	-1
+dilenyapkan	-2
 dilindas	-1
 dilucuti	-1
 diludahi	-1
@@ -619,36 +726,40 @@ dimandulkan	-1
 dimanipulasi	-1
 dimanipulasikan	-1
 dimarahi	-1
-dimonopoli	-1
+dimonopoli	-2
 dimuntahkan	-1
 dimusuhi	-1
 dimutilasi	-1
 dinamit	-1
+dinginkan	-1
 dinistakan	-1
 dinodai	-1
 diobrak-abrik	-1
 diombang-ambing	-1
 diomeli	-1
-dipaksa	-1
+dipaksa	-2
 dipaksakan	-1
 dipalak	-1
 dipalaki	-1
-dipalsukan	-1
+dipalsukan	-3
 dipanas-panasi	-1
 dipancung	-1
 dipasung	-1
-dipecat	-1
-diperbudak	-1
+dipecat	-2
+dipenjara	-2
+diperbudak	-2
 diperburuk	-1
-diperdaya	-1
-diperdebatkan	-1
+diperdaya	-2
+diperdebatkan	-2
 diperepot	-1
+diperingatkan	-2
 diperkosa	-1
 diperlama	-1
 diperlambat	-1
 diperlemah	-1
+dipermalukan	-2
 dipermasalahkan	-1
-diperparah	-1
+diperparah	-2
 dipersadis	-1
 dipersakit	-1
 dipersalah	-1
@@ -658,7 +769,9 @@ dipersukar	-1
 dipersulit	-1
 dipersuram	-1
 dipersusah	-1
+dipertahankan	-1
 dipertakut	-1
+dipertanyakan	-2
 dipertaruhkan	-1
 dipertarungkan	-1
 dipertegang	-1
@@ -669,19 +782,19 @@ dipidana	-1
 dipidanakan	-1
 dipinggirkan	-1
 dipojokkan	-1
+dipotong	-1
 dipreteli	-1
 dipropaganda	-1
 diprotes	-1
 diprovokasi	-1
-dipukul	-1
-dipukuli	-1
+dipukul mundur	-2
+dipukuli	-2
 dipulangkan	-1
 dipungut	-1
 dipungut iuran	-1
 dipungut uang	-1
 dipusingkan	-1
-diracun	-1
-diracuni	-1
+diracuni	-2
 diragukan	-1
 dirajam	-1
 dirampas	-1
@@ -689,31 +802,33 @@ dirampok	-1
 diratapi	-1
 dirazia	-1
 direkayasa	-1
-diremehkan	-1
+diremehkan	-2
 direndahkan	-1
 direnggut	-1
 direpotkan	-1
 diresahkan	-1
+diretas	-1
 diributkan	-1
+diringankan	-1
 diringkus	-1
 dirobek	-1
 dirobek-robek	-1
 dirobohkan	-1
 dirongrong	-1
-dirugikan	-1
+dirugikan	-2
 dirumahkan	-1
 dirumitkan	-1
 dirundung	-1
 dirunyamkan	-1
-dirusak	-1
+dirusak	-2
 dirusakkan	-1
 diruwetkan	-1
 disabotase	-1
 disadap	-1
 disakiti	-1
 disalahartikan	-1
-disalahgunakan	-1
-disalahkan	-1
+disalahgunakan	-3
+disalahkan	-2
 disamarkan	-1
 disambar	-1
 disambit	-1
@@ -726,15 +841,20 @@ disangsikan	-1
 disantet	-1
 disatroni	-1
 disayangkan	-1
-disayat	-1
+disayat	-2
 disayat-sayat	-1
-disfungsi	-1
+disebut-sebut	-2
+diselesaikan	-1
+disensor	-2
+diserang	-1
+diseret	-1
+disfungsi	-2
 disharmoni	-1
 disia-siakan	-1
 disidang	-1
 disiden	-1
 disidik	-1
-disiksa	-1
+disiksa	-4
 disikut	-1
 disilet	-1
 disindir	-1
@@ -747,10 +867,7 @@ disita	-1
 diskors	-1
 diskotek	-1
 diskotik	-1
-diskredit	-1
-diskriminasi	-1
 diskriminatif	-1
-diskualifikasi	-1
 disobek	-1
 disobek-sobek	-1
 disodomi	-1
@@ -758,14 +875,16 @@ disogok	-1
 disomasi	-1
 disombongkan	-1
 disorder	-1
-distorsi	-1
+distorsi	-2
 distreskan	-1
 disuap	-1
 disudutkan	-1
 disulut	-1
 disumpahi	-1
+disumpal	-2
 disumpel	-1
 disundut	-1
+disurutkan	-1
 disusahi	-1
 disusahkan	-1
 disusupi	-1
@@ -774,13 +893,15 @@ disusutkan	-1
 ditabok	-1
 ditabrak	-1
 ditagih	-1
-ditahan	-1
+ditahan	-2
 ditakut-takuti	-1
-ditakuti	-1
+ditakuti	-2
 ditalak	-1
 ditampar	-1
+ditangani	-1
+ditangguhkan	-1
 ditangisi	-1
-ditangkap	-1
+ditangkap	-3
 ditawan	-1
 ditekan	-1
 ditelan mentah-mentah	-1
@@ -791,10 +912,11 @@ ditempeleng	-1
 ditentang	-1
 diteriaki	-1
 diterjang	-1
-diteror	-1
+diteror	-3
 ditertawai	-1
 ditertawakan	-1
 ditewaskan	-1
+dithering	-2
 ditiduri	-1
 ditikam	-1
 ditilang	-1
@@ -804,14 +926,15 @@ ditimpa	-1
 ditimpakan	-1
 ditimpuk	-1
 ditimpuki	-1
+ditindaklanjuti	-1
 ditindas	-1
-ditinggalkan	-1
+ditinggalkan	-2
 ditinjau lagi	-1
 ditinju	-1
 ditipu	-1
 ditiru-tiru	-1
 ditodong	-1
-ditolak	-1
+ditolak	-2
 ditomboki	-1
 ditonjok	-1
 ditoyor	-1
@@ -825,12 +948,14 @@ ditumpulkan	-1
 ditunda	-1
 ditunda-tunda	-1
 ditunggangi	-1
-dituntut	-1
+ditunggu	-1
+dituntut	-2
 diturunkan	-1
-ditusuk	-1
+ditusuk	-2
 ditusuk-tusuk	-1
 ditutup-tutupi	-1
 ditutupi	-1
+diungkap	-1
 diurungkan	-1
 diusik	-1
 diusir	-1
@@ -841,36 +966,31 @@ dobrak	-1
 dompleng	-1
 don juang	-1
 dongkol	-1
-dosa	-1
+douche	-3
+douchebag	-3
+dud	-2
 dugaan	-1
-duka	-1
-duka cita	-1
-dukun	-1
+duka	-2
 dumping	-1
 dungu	-1
+dunia gemerlap	-1
 dunia hitam	-1
 durhaka	-1
 durhana	-1
-dusta	-1
-dzalim	-1
 ecek-ecek	-1
 edan	-1
 edan-edanan	-1
-egois	-1
+egois	-3
 egoisme	-1
 egoistis	-1
 ekshibisionis	-1
 ekshibisionisme	-1
-eksploitasi	-1
+eksploitasi	-2
 eksplosif	-1
-ekspos	-1
 ekstasi	-1
 ekstrem	-1
 ekstrim	-1
-elak	-1
-eliminasi	-1
-emang	-1
-embat	-1
+emang gue pikirin	-1
 embel-embel	-1
 emghantam	-1
 emoh	-1
@@ -881,185 +1001,170 @@ enak saja	-1
 endemi	-1
 eneg	-1
 enek	-1
-engap	-1
-enggan	-1
-entah	-1
-enyah	-1
-enyahkan	-1
+enggak	-1
+enggan	-2
+ennui	-2
 epidemi	-1
 epilepsi	-1
-erangan	-1
-eror	-1
+erang	-2
+erangan	-2
 erosi	-1
 erotik	-1
 erotis	-1
-erpusi	-1
 error	-1
 fakir	-1
 fals	-1
-fanatik	-1
+fanatik	-2
 fanatisme	-1
 fasad	-1
 fasakh	-1
 fasik	-1
-fasis	-1
+fasis	-2
 fasisme	-1
-fatal	-1
+fatalitas	-3
 feodal	-1
 feodalisme	-1
 fiktif	-1
-fitnah	-1
+firaun	-1
 fitnahan	-1
+flu	-2
+fobia	-2
 formalin	-1
 formalitas	-1
-forsir	-1
-foya-foya	-1
+fpi	-1
+frikin	-2
 friksi	-1
 frontal	-1
-frustasi	-1
+frustasi	-2
+frustrasi	-2
+fud	-3
+fuked	-4
+fuking	-4
 gaduh	-1
 gadungan	-1
-gagal	-1
+gag	-2
+gagal	-2
+gagal total	-1
+gagalkan	-2
+gagap teknologi	-1
+gaji buta	-1
 galak	-1
 galau	-1
 gamang	-1
 gampangan	-1
-gampar	-1
-ganas	-1
-ganggu	-1
+ganas	-2
+ganggu	-2
 ganggu gugat	-1
-gangguan	-1
+gangguan	-2
 gangster	-1
-ganja	-1
 ganjalan	-1
 ganjen	-1
-ganjil	-1
-gap	-1
+ganjil	-2
 gaptek	-1
 gara-gara	-1
+garing	-1
+garis miring	-2
 garong	-1
 gasab	-1
-gasak	-1
+gatal	-2
 gawat	-1
 geblek	-1
-gebuk	-1
 gedebak-gedebuk	-1
-gedor	-1
 gegabah	-1
-geger	-1
 gejala	-1
 gelagap	-1
 gelagapan	-1
 gelagat	-1
-gelandangan	-1
-gelap	-1
 geledah	-1
 gelepar	-1
 geletak	-1
-gelisah	-1
+gelisah	-2
 gelonggong	-1
 gelonggongan	-1
-gembar-gembor	-1
 gembel	-1
 gemblung	-1
 gembong	-1
 gembos	-1
 gembrot	-1
 gembul	-1
-gemetar	-1
-gempa	-1
-gempar	-1
+gemetar	-2
 gempor	-1
-gempur	-1
 gempuran	-1
+gencar	-1
 gendeng	-1
 genderuwo	-1
-geng	-1
 genosida	-1
-gentayangan	-1
 genting	-1
 gep	-1
 gerabak-gerubuk	-1
 gerah	-1
-geram	-1
+geram	-2
 geraman	-1
-gerayan	-1
-gerebek	-1
-gerecok	-1
 germo	-1
-gerogot	-1
 gerombol	-1
 gerombolan	-1
 gersang	-1
-gertak	-1
 gertakan	-1
 gerutu	-1
-getir	-1
 gibah	-1
+gigi mancung	-1
+gigi nongol	-1
 gigolo	-1
-gila	-1
+gila	-2
 goblok	-1
 gombal	-1
 gombalan	-1
-gondok	-1
-gondol	-1
+gondok	-2
 gonjang-ganjing	-1
 gonore	-1
 gonta-ganti	-1
-gontok-gontokan	-1
 gores	-1
-gorok	-1
-gosip	-1
 gosong	-1
 goyah	-1
 gracok	-1
+greenwash	-3
+greenwashing	-3
 grogi	-1
-gugat	-1
-gugatan	-1
+gugatan	-2
 gugup	-1
 gulana	-1
 gulma	-1
-guna-guna	-1
+guncangan	-2
 gundah	-1
 gundah gulana	-1
 gundik	-1
-gunjing	-1
 gunjingan	-1
 gusar	-1
-hajar	-1
-halangan	-1
+habis	-2
+halangan	-2
 halusinasi	-1
-hama	-1
+hambar	-2
 hambat	-1
-hambatan	-1
-hambur	-1
-hancur	-1
+hambatan	-2
+hancur	-2
 hancur lebur	-1
 hancur-hancuran	-1
-hangus	-1
-hantam	-1
+hancurkan	-1
 hantaman	-1
 hantu	-1
 hanya	-1
 hanyut	-1
-haram	-1
-hardik	-1
+hapus	-1
 hardikan	-1
+harimau	-1
 harusnya	-1
 hasad	-1
 hasud	-1
-hasut	-1
-hasutan	-1
+hasutan	-2
 hedonis	-1
 hedonisme	-1
 hengkang	-1
 heran	-1
 heroin	-1
 herpes	-1
-hilang	-1
+hilang	-2
 himpitan	-1
-hina	-1
-hinaan	-1
+hindari	-1
 hingar-bingar	-1
 hiperaktif	-1
 hiperbol	-1
@@ -1067,23 +1172,30 @@ hiperbola	-1
 hiperbolis	-1
 hiperseksual	-1
 hipersensitif	-1
+hipnotis	-1
 hipokrit	-1
+hiruk pikuk	-3
+histeria	-3
+histeris	-3
+homo	-3
 homoseks	-1
 homoseksual	-1
+hooligan	-2
+hooliganisme	-2
 horor	-1
 hostes	-1
+hujan	-1
 hujan lebat	-1
-hujat	-1
 hujatan	-1
-hukuman	-1
-hura-hura	-1
-hutang	-1
+hukum	-2
+hukuman	-2
+hutang	-2
 iblis	-1
-idiot	-1
-ilegal	-1
+idiot	-3
+ikut campur	-1
+ilegal	-3
 imbak	-1
 imbal	-1
-imbas	-1
 imitasi	-1
 imitatif	-1
 imitator	-1
@@ -1091,9 +1203,8 @@ impase	-1
 imperfek	-1
 imperialis	-1
 imperialisme	-1
-impitan	-1
 impor	-1
-impoten	-1
+impoten	-2
 impotensi	-1
 impulsif	-1
 inadaptabilitas	-1
@@ -1101,29 +1212,30 @@ inca	-1
 indisipliner	-1
 individualisme	-1
 individualistis	-1
-indoktrinasi	-1
 indolen	-1
 inefisiensi	-1
-infeksi	-1
-inferior	-1
+inferior	-2
 inferioritas	-1
 infertil	-1
 infertilitas	-1
 inflasi	-1
 infleksibilitas	-1
+informasi yang salah	-2
 ingkar	-1
 inkarsunah	-1
 inkompatibel	-1
 inkonsisten	-1
 inkonsistensi	-1
+inkuisisi	-2
 inlander	-1
 inses	-1
 insiden	-1
 insinuasi	-1
 instabilitas	-1
+instan	-1
 internir	-1
 interupsi	-1
-intimidasi	-1
+intimidasi	-2
 intimidatif	-1
 intoleran	-1
 intrik	-1
@@ -1134,25 +1246,23 @@ iri	-1
 iri hati	-1
 ironi	-1
 ironis	-1
-isak	-1
-isolasi	-1
+iseng	-2
 istan	-1
-isu	-1
 jadi bumerang	-1
+jaga image	-1
 jahanam	-1
-jahat	-1
+jahat	-3
 jahil	-1
 jahiliah	-1
 jahiliyah	-1
 jail	-1
-jajah	-1
 jajahan	-1
-jalang	-1
+jalan buntu	-2
+jalang	-5
 jamah	-1
-jambak	-1
-jambret	-1
 jambretan	-1
 jampi-jampi	-1
+janda	-1
 jangan asal	-1
 jangan diganggu	-1
 jangan sampai	-1
@@ -1161,54 +1271,66 @@ jangan tanya	-1
 jangan-jangan	-1
 jangankan	-1
 janggal	-1
-jarah	-1
 jarahan	-1
+jarang dibelai	-1
+jatuh	-2
+jatuhkan	-1
+jebakan	-1
 jeblok	-1
 jebol	-1
-jegal	-1
 jelangkung	-1
 jelantah	-1
-jelek	-1
+jelek	-3
 jemawa	-1
-jengkel	-1
 jenuh	-1
+jepit	-2
 jerit	-1
 jeritan	-1
-jiplak	-1
+jijik	-3
+jilat	-1
 jiplakan	-1
 joki	-1
 jongos	-1
 jontor	-1
 jorok	-1
 jotos	-1
+jubah	-2
 judes	-1
-judi	-1
 justru	-1
 kabur	-1
-kacau	-1
+kabut asap	-2
+kacang	-3
+kacau	-2
 kacau balau	-1
 kacau-balau	-1
 kacung	-1
 kadaluarsa	-1
 kadaluwarsa	-1
-kafir	-1
+kaget	-2
 kagok	-1
 kaku	-1
-kalah	-1
+kalah	-2
 kalang kabut	-1
 kalap	-1
 kalau tidak	-1
 kalibut	-1
 kalicau	-1
+kalimat	-2
 kalut	-1
-kambing hitam	-1
+kambing hitam	-2
 kambuh	-1
 kambuhan	-1
+kami sedih	-2
+kamiahok	-1
+kandang	-1
 kandas	-1
 kanibal	-1
 kanibalisme	-1
+kanker	-1
+kapak	-1
 kapitalis	-1
 karam	-1
+karma	-1
 karsinogen	-1
 karsinogenik	-1
 kartu kuning	-1
@@ -1216,9 +1338,10 @@ kartu merah	-1
 karusi	-1
 karut	-1
 karut-marut	-1
-kasak-kusuk	-1
-kasar	-1
+kasar	-3
+kasihan	-2
 kasus	-1
+kata-kata kasar	-3
 katastrofe	-1
 kebakaran	-1
 kebandelan	-1
@@ -1228,7 +1351,6 @@ kebanjiran	-1
 keberatan	-1
 kebiadaban	-1
 kebinasaan	-1
-kebiri	-1
 keblinger	-1
 kebobolan	-1
 kebobrokan	-1
@@ -1242,29 +1364,28 @@ keburukan	-1
 kebusukan	-1
 kebut-kebutan	-1
 kebuyaran	-1
-kecam	-1
 kecaman	-1
-kecamuk	-1
 kecanggungan	-1
 kecapean	-1
 kecapekan	-1
-kecelakaan	-1
-kecemasan	-1
+kecelakaan	-2
+kecemasan	-2
 kecemburuan	-1
 kecengengan	-1
 keceplosan	-1
 kecerewetan	-1
 kecerobohan	-1
-kecewa	-1
-kecil hati	-1
+kecewa	-2
 kecoh	-1
 kecolongan	-1
 kecongkakan	-1
 kecopetan	-1
+kecualikan	-1
 keculasan	-1
 kecurangan	-1
 kecurian	-1
 kecurigaan	-1
+kecut	-1
 kedaifan	-1
 kedaluarsa	-1
 keder	-1
@@ -1272,13 +1393,12 @@ kedhaifan	-1
 kedhaliman	-1
 kedholiman	-1
 kediktatoran	-1
-kedok	-1
 kedunguan	-1
 kedurhakaan	-1
 kedurjanaan	-1
 kedzaliman	-1
 keedanan	-1
-keegoisan	-1
+keegoisan	-3
 keekstreman	-1
 keekstriman	-1
 keemohan	-1
@@ -1290,16 +1410,17 @@ kefasikan	-1
 kefatalan	-1
 kefrsutasian	-1
 kegaduhan	-1
-kegagalan	-1
+kegagalan	-2
 kegalauan	-1
 keganasan	-1
 keganjilan	-1
 kegawatan	-1
+kegelapan	-1
 kegelisahan	-1
 kegentingan	-1
 kegeraman	-1
 kegersangan	-1
-kegilaan	-1
+kegilaan	-2
 kegoblokan	-1
 kegugupan	-1
 keguguran	-1
@@ -1308,80 +1429,78 @@ kegundahan	-1
 kegusaran	-1
 kehabisan	-1
 kehampaan	-1
-kehancuran	-1
-kehilangan	-1
+kehancuran	-3
+kehilangan	-2
+kehilangan semangat	-2
 kehinaan	-1
 keingkaran	-1
-kejahatan	-1
+kejahatan	-3
 kejalangan	-1
-kejam	-1
+kejam	-3
 kejelekan	-1
 kejengkelan	-1
-keji	-1
+keji	-3
 kejorokan	-1
+kekacauan	-2
 kekafiran	-1
 kekalahan	-1
 kekalapan	-1
 kekalutan	-1
-kekanak-kanakan	-1
-kekang	-1
+kekanak-kanakan	-2
 kekangan	-1
-kekecewaan	-1
-kekejaman	-1
+kekecewaan	-2
+kekejaman	-3
 kekejian	-1
 kekeliruan	-1
-kekerasan	-1
+kekerasan	-3
 kekeringan	-1
 kekeruhan	-1
-kekesalan	-1
+kekesalan	-2
 kekhawatiran	-1
 kekhilafan	-1
 kekikiran	-1
 kekisruhan	-1
+kekosongan	-1
 kekotoran	-1
 kekufuran	-1
+kekurangan	-2
 kelabakan	-1
-kelabu	-1
-kelahi	-1
-kelainan	-1
 kelaknatan	-1
 kelalaian	-1
 kelambanan	-1
 kelambatan	-1
 kelancangan	-1
-kelaparan	-1
+kelaparan	-2
 kelayapan	-1
-kelelahan	-1
-kelemahan	-1
+kelebihan beban	-1
+kelebihan berat badan	-1
+keledai	-4
+kelelahan	-2
+kelemahan	-2
 kelengahan	-1
 kelepasan	-1
-kelesuan	-1
+kelesuan	-2
 keletihan	-1
 kelewat batas	-1
 kelewatan	-1
-keliaran	-1
 kelicikan	-1
 kelimbungan	-1
 kelimpungan	-1
 kelinglungan	-1
-keliru	-1
 keloyoan	-1
-kelu	-1
-keluh	-1
+keluarkan	-2
 keluhan	-1
 kelumpuhan	-1
 kelupaan	-1
-keluyuran	-1
 kemaksiatan	-1
 kemalingan	-1
-kemarahan	-1
-kematian	-1
+kemarahan	-3
+kematian	-2
 kemelaratan	-1
 kemelut	-1
 kemerosotan	-1
 kemesuman	-1
 kemiskinan	-1
-kemplang	-1
 kemplangan	-1
 kemunafikan	-1
 kemunduran	-1
@@ -1394,19 +1513,19 @@ kemustahilan	-1
 kemusyrikan	-1
 kenajisan	-1
 kenakalan	-1
+kencing	-4
 kendala	-1
 kenekatan	-1
 kenestapaan	-1
 kengerian	-1
 kenistaan	-1
-kentut	-1
 keonaran	-1
 kepailitan	-1
 kepalsuan	-1
 kepanasan	-1
 kepandiran	-1
 kepanikan	-1
-keparat	-1
+keparat	-4
 kepayahan	-1
 kepedihan	-1
 kepelitan	-1
@@ -1414,46 +1533,54 @@ kepicikan	-1
 kepincangan	-1
 kepongahan	-1
 kepura-puraan	-1
+keputusasaan	-2
 keracunan	-1
 keraguan	-1
 kerakusan	-1
 kerampokan	-1
 kerancuan	-1
 kerapuhan	-1
+keras	-1
+keras kepala	-2
 kerawanan	-1
 kerdurjanaan	-1
-kerentanan	-1
+kerentanan	-2
 kerepotan	-1
 keresahan	-1
 keretakan	-1
 kerewelan	-1
 keributan	-1
 kericuhan	-1
+kerinduan	-1
 kerisauan	-1
 kerontang	-1
 keropos	-1
-keroyok	-1
 keroyokan	-1
-kerugian	-1
+kerugian	-2
 kerumitan	-1
 keruntuhan	-1
 kerunyaman	-1
-kerusakan	-1
-kerusuhan	-1
+kerusakan	-3
+kerusuhan	-2
 keruwetan	-1
 kesablengan	-1
 kesadisan	-1
 kesadisannya	-1
 kesakitan	-1
-kesal	-1
-kesalahan	-1
+kesal	-2
+kesalahan	-2
+kesalahpahaman	-2
 kesambet	-1
 kesandung	-1
 kesangsian	-1
 kesasar	-1
+kesedihan	-1
+kesengsaraan	-2
+kesepian	-2
+keserakahan	-3
 kesewenang-wenangan	-1
 kesia-siaan	-1
-kesialan	-1
+kesialan	-2
 kesiangan	-1
 kesimpangsiuran	-1
 kesinisan	-1
@@ -1464,16 +1591,18 @@ kesombongan	-1
 kesorean	-1
 kestagnanan	-1
 kesukaran	-1
-kesulitan	-1
+kesulitan	-2
 kesuraman	-1
 kesurupan	-1
-kesusahan	-1
+kesusahan	-2
 kesyirikan	-1
+ketahuan	-1
 ketakaburan	-1
-ketakutan	-1
+ketakutan	-2
 ketamakan	-1
 ketar-ketir	-1
 ketegangan	-1
+keterasingan	-2
 keterbatasan	-1
 ketergantungan	-1
 ketergesa-gesaan	-1
@@ -1485,9 +1614,15 @@ ketertindasan	-1
 ketertinggalan	-1
 keteter	-1
 keteteran	-1
+ketidakadilan	-2
 ketidakefisienan	-1
+ketidakmampuan	-2
+ketidaknyamanan	-2
 ketidakpastian	-1
-ketidakpercayaan	-1
+ketidakpedulian	-2
+ketidakpekaan	-2
+ketidakpercayaan	-3
+ketidaktahuan	-2
 ketiduran	-1
 ketimbang	-1
 ketimpangan	-1
@@ -1500,20 +1635,11 @@ ketumpangtindihan	-1
 ketus	-1
 kewalahan	-1
 kezaliman	-1
-khalwat	-1
-khawatir	-1
-khawatirkan	-1
-khianat	-1
-khilaf	-1
+khawatir	-2
 kiamat	-1
-kibul	-1
-kikir	-1
-kilah	-1
-kisruh	-1
 klepto	-1
 kleptomania	-1
 klise	-1
-koar	-1
 kocar-kacir	-1
 kok	-1
 kolaps	-1
@@ -1522,131 +1648,131 @@ kolonial	-1
 kolonialisme	-1
 kolonis	-1
 kolot	-1
-kolusi	-1
 komat-kamit	-1
 komplain	-1
 kompleks	-1
 komplikasi	-1
 komplotan	-1
 komunis	-1
-konflik	-1
+konfil	-1
+konflik	-2
 konfrontasi	-1
-kongkalikong	-1
-konspirasi	-1
+konspirasi	-3
 konspiratif	-1
 konsumtif	-1
-kontaminasi	-1
+kontol	-1
 kontra	-1
 kontradiksi	-1
 kontradiktif	-1
 kontraproduktif	-1
-kontroversi	-1
-kontroversial	-1
-korban	-1
-korupsi	-1
+kontroversial	-2
+konyol	-3
+korban	-2
+korbankan	-3
 koruptor	-1
-kotor	-1
+kosong	-1
+kotor	-2
+kotoran	-2
 kout	-1
-kriminal	-1
+kram	-1
+kriminal	-3
 kriminalis	-1
 kriminalisasi	-1
 kriminalitas	-1
-krisis	-1
-kritik	-1
+krisis	-3
+kritik	-2
+kritikus	-2
 kritis	-1
 kroni	-1
 kronis	-1
 krusial	-1
 kualat	-1
 kuatir	-1
+kuburan	-2
+kucingkurap	-1
 kudeta	-1
-kufur	-1
 kufur nikmat	-1
 kumal	-1
-kuman	-1
 kumel	-1
 kumuh	-1
-kungkung	-1
+kurang	-2
+kurang beruntung	-2
+kurang pergaulan	-1
 kusta	-1
 kusut	-1
-kutu	-1
-kutuk	-1
-kutukan	-1
+kutukan	-2
 labil	-1
-labrak	-1
-lacur	-1
-laknat	-1
-lalai	-1
 lalim	-1
-lama	-1
-lamban	-1
-lambat	-1
-lancang	-1
+lamban	-2
 langgar-melanggar	-1
-lara	-1
+laut	-1
 layu	-1
-ledek	-1
-leha-leha	-1
-lelah	-1
+lebih buruk	-2
+lebih gila	-2
+lebih keras	-2
+lebih kotor	-2
+lelah	-2
 lelet	-1
-lemah	-1
+lelucon	-1
+lemah	-2
 lemas	-1
 lemes	-1
-lengah	-1
+lempar	-1
 lengser	-1
-lenyap	-1
+lenyapkan	-2
+lepas	-3
 lesbi	-1
 lesbian	-1
-lesu	-1
-letih	-1
+lesu	-2
 letoi	-1
-liar	-1
 licik	-1
 limbah	-1
-limbung	-1
 ling-lung	-1
 lintah darat	-1
 lirih	-1
+litigasi	-1
+lobi	-2
+lolos	-1
 longsor	-1
 lontang-lantung	-1
 lonte	-1
-loyo	-1
-luka	-1
 luluh lantak	-1
-lumpuh	-1
+lumpuh	-2
 lunta	-1
 luntang-lantung	-1
-lupa	-1
+lupakan	-1
 lusuh	-1
-mabuk	-1
+maaf	-1
+mabuk	-2
 mabuk-mabukan	-1
-macet	-1
-madat	-1
+macam-macam	-1
+macet	-2
 madharat	-1
 mafia	-1
-mahal	-1
+mahal	-2
 main-main	-1
+makan teman	-1
 makar	-1
-maki	-1
+makelar	-1
+makelar kasus	-1
 makian	-1
 makruh	-1
-maksiat	-1
-mala	-1
-malapetaka	-1
+malang	-2
+malapetaka	-2
 malaprakt2k	-1
 malapraktik	-1
 malas	-1
-maling	-1
 malnutrisi	-1
 malpraktek	-1
 malpraktik	-1
+malu	-2
+malu-malu	-2
 mamandekkan	-1
 mamasygulkan	-1
 mampus	-1
 mana ada	-1
-mandek	-1
-mandul	-1
 manghantam	-1
+mangkal	-1
 mangkel	-1
 mangkir	-1
 mangu	-1
@@ -1654,20 +1780,22 @@ maniak	-1
 manipulasi	-1
 manipulatif	-1
 manipulator	-1
-marah	-1
+marah	-3
 marah-marah	-1
 masa bodoh	-1
 masai	-1
-masalah	-1
+masalah	-2
 masam	-1
 masgul	-1
 masokhis	-1
 masokis	-1
-masygul	-1
 materialis	-1
 materialisme	-1
 materialistis	-1
+mati	-3
+mati rasa	-1
 matre	-1
+maut	-1
 mayat	-1
 melabrak	-1
 melacur	-1
@@ -1678,19 +1806,19 @@ melambat	-1
 melambat-lambatkan	-1
 melambatkan	-1
 melanda	-1
-melanggar	-1
+melanggar	-2
+melankolis	-2
 melantur	-1
 melarang	-1
-melarat	-1
 melarikan	-1
 melas	-1
-melebih-lebihkan	-1
+melebih-lebihkan	-2
 melecehkan	-1
 meledak	-1
 meledakkan	-1
 meledek	-1
 meledeki	-1
-melelahkan	-1
+melelahkan	-2
 melemah	-1
 melemahkan	-1
 melengahkan	-1
@@ -1700,6 +1828,7 @@ melepuh	-1
 melewati batas	-1
 melindas	-1
 melintir	-1
+melobi	-2
 melompong	-1
 melongo	-1
 melucuti	-1
@@ -1716,8 +1845,8 @@ memaksakan	-1
 memalak	-1
 memalaki	-1
 memalingkan	-1
-memalsukan	-1
-memalukan	-1
+memalsukan	-3
+memalukan	-2
 memanas-manasi	-1
 memandulkan	-1
 memanipulasi	-1
@@ -1732,57 +1861,69 @@ membanding-bandingkan	-1
 membangkang	-1
 membangkrutkan	-1
 membanjiri	-1
-membantah	-1
+membantah	-2
+membasmi	-1
 membatalkan	-1
-membatasi	-1
+membatasi	-2
+membatu	-2
 membebankan	-1
 membeberkan	-1
 membekas	-1
 membelenggu	-1
 membelit	-1
+membenci	-3
 membentur	-1
-memberatkan	-1
+memberantas	-1
+memberatkan	-2
 memberhentikan	-1
 memberondong	-1
 membiaskan	-1
+membingungkan	-2
 memblokir	-1
 membocorkan	-1
 membodohi	-1
 membohongi	-1
+memboikot	-2
 membolos	-1
 membom	-1
 membombardir	-1
-membosankan	-1
+membosankan	-2
 membual	-1
 membuang	-1
 membuang-buang waktu	-1
+membuat frustrasi	-2
+membuat marah	-2
 membuat-buat	-1
 membungkam	-1
-membunuh	-1
-memburuk	-1
+membunuh	-3
+memburuk	-3
 membusuk	-1
 membutakan	-1
+membutuhkan	-2
 membuyarkan	-1
 memecah belah	-1
 memecah-belah	-1
 memecahbelahkan	-1
 memecat	-1
-memekakkan	-1
+memekakkan telinga	-1
 memelas	-1
+memelintir	-1
 memeloroti	-1
-memfitnah	-1
+memfitnah	-2
 memforsir	-1
 memidanakan	-1
-memilukan	-1
+memilukan	-3
+meminta maaf	-1
 meminta-minta	-1
 memiskinkan	-1
 memojokkan	-1
-memonopoli	-1
+memonopoli	-2
 memorak-porandakan	-1
 memoroti	-1
+memotong	-1
 memperbodoh	-1
-memperbudak	-1
-memperburuk	-1
+memperbudak	-2
+memperburuk	-2
 memperbuyar	-1
 memperdaya	-1
 mempergunjingkan	-1
@@ -1791,6 +1932,7 @@ memperlama	-1
 memperlamban	-1
 memperlambat	-1
 memperlemah	-1
+memperlihatkan	-1
 mempermasalahkan	-1
 memperolok-olok	-1
 memperolok-olokkan	-1
@@ -1805,6 +1947,7 @@ mempersura,	-1
 mempersuram	-1
 mempersusah	-1
 mempertakut	-1
+mempertanyakan	-1
 mempertaruhkan	-1
 mempertengkarkan	-1
 memperumit	-1
@@ -1813,7 +1956,7 @@ mempreteli	-1
 memprihatinkan	-1
 mempropaganda	-1
 mempropagandakan	-1
-memprotes	-1
+memprotes	-2
 memprovokasi	-1
 memukul	-1
 memukuli	-1
@@ -1836,10 +1979,13 @@ menafikan	-1
 menagih	-1
 menakut-nakuti	-1
 menakuti	-1
+menakutkan	-2
 menalak	-1
 menampar	-1
-menangis	-1
+menangani	-1
+menangis	-2
 menangisi	-1
+menantang	-1
 menarikturunkan	-1
 mencabik-cabik	-1
 mencabuli	-1
@@ -1859,15 +2005,17 @@ mencari-cari kesalahan	-1
 mencatut	-1
 mencecar	-1
 mencederai	-1
+mencegah	-1
 mencekam	-1
 mencekcoki	-1
 mencekik	-1
-mencela	-1
+mencela	-2
 mencelakai	-1
 mencelakakan	-1
-mencemari	-1
+mencemari	-2
 mencemaskan	-1
 mencemburui	-1
+mencemooh	-2
 mencerca	-1
 mencibir	-1
 mencolong	-1
@@ -1880,9 +2028,9 @@ mencuci otak	-1
 mencuci uang	-1
 menculik	-1
 mencurangi	-1
-mencuri	-1
+mencuri	-2
 mencurigai	-1
-mencurigakan	-1
+mencurigakan	-2
 mendadak	-1
 mendaifkan	-1
 mendalangi	-1
@@ -1901,6 +2049,7 @@ mendiskriminasi	-1
 mendiskriminasikan	-1
 mendiskualifikasi	-1
 mendiskualifikasikan	-1
+mendistorsi	-2
 mendobrak	-1
 mendompleng	-1
 mendongkol	-1
@@ -1909,62 +2058,69 @@ mendua	-1
 menduakan	-1
 menduga-duga	-1
 mendukuni	-1
+mendung	-1
 mendurhakai	-1
 mendustai	-1
 mendustakan	-1
 mendzalimi	-1
+menebas	-2
 menegatifkan	-1
 menelanjangi	-1
 menelantarkan	-1
-menembak	-1
+menembak	-2
 menembaki	-1
 menempeleng	-1
 menentang	-1
-meneror	-1
+meneror	-3
 menertawai	-1
 menertawakan	-1
 menewaskan	-1
-mengabaikan	-1
+mengabaikan	-2
 mengaburkan	-1
 mengacak-acak	-1
-mengacau	-1
 mengacaubalaukan	-1
-mengacaukan	-1
+mengacaukan	-2
 mengadili	-1
 mengadu domba	-1
 mengafirkan	-1
 mengais	-1
 mengakhiri	-1
+mengalihkan perhatian	-2
 mengambinghitamkan	-1
-mengancam	-1
+mengancam	-2
 menganggur	-1
+menganiaya	-2
+mengapur	-3
 mengarut	-1
 mengasari	-1
 mengata-ngatai	-1
 mengatai	-1
+mengatasi	-1
 mengebiri	-1
 mengecam	-1
-mengecewakan	-1
+mengecewakan	-2
 mengecilkan hati	-1
 mengecoh	-1
+mengejek	-2
+mengejutkan	-2
 mengekakng	-1
 mengekang	-1
-mengeksploitasi	-1
+mengeksploitasi	-2
 mengekspos	-1
 mengelabui	-1
 mengelak	-1
 mengelakkan	-1
-mengeluh	-1
+mengeluh	-2
 mengeluhkan	-1
 mengemis	-1
 mengemplang	-1
 mengenaskan	-1
 mengentengkan	-1
-mengerang	-1
+mengerang	-2
 mengerangkeng	-1
 mengerdilkan	-1
 mengerecoki	-1
-mengerikan	-1
+mengerikan	-2
 mengeritik	-1
 mengernyit	-1
 mengernyitkan	-1
@@ -1972,11 +2128,13 @@ mengeroyok	-1
 mengeruhkan	-1
 mengesalkan	-1
 mengesampingkan	-1
+mengesankan	-1
 mengeyel	-1
+menggagalkan	-2
 menggampangkan	-1
 mengganas	-1
 menggandakan uang	-1
-mengganggu	-1
+mengganggu	-2
 mengganggu gugat	-1
 mengganjal	-1
 menggasab	-1
@@ -1990,7 +2148,7 @@ menggelandang	-1
 menggelapkan	-1
 menggelepar	-1
 menggelisahkan	-1
-menggembar-gemborkan	-1
+menggembar-gemborkan	-2
 menggentayangi	-1
 menggerayangi	-1
 menggerebek	-1
@@ -2002,7 +2160,7 @@ menggila	-1
 menggondol	-1
 menggorok	-1
 menggosipkanmenggrecoki	-1
-menggugat	-1
+menggugat	-2
 menggulingkan	-1
 mengguna-guna	-1
 mengguna-gunai	-1
@@ -2023,33 +2181,42 @@ menghancurleburkan	-1
 menghanguskan	-1
 menghantui	-1
 menghardik	-1
-menghasut	-1
+menghasut	-2
+menghebohkan	-3
+menghela napas	-2
 mengherankan	-1
 menghilang	-1
 menghilangkan	-1
-menghina	-1
+menghina	-2
+menghindar	-2
 menghujat	-1
+menghukum	-3
 mengibuli	-1
 mengidap	-1
 mengimitasi	-1
+mengindoktrinasi	-2
 menginfeksi	-1
 mengingkari	-1
 menginjak	-1
 menginjak-injak	-1
+mengintai	-1
 mengintil	-1
-mengintimidasi	-1
+mengintimidasi	-2
+mengirim spam	-2
+mengiritasi	-3
 mengisolasi	-1
 mengisolasikan	-1
-mengkhawatirkan	-1
-mengkhianati	-1
-mengkritik	-1
+mengkhawatirkan	-3
+mengkhianati	-3
+mengklaim	-1
+mengkritik	-2
 mengkudeta	-1
 mengobrak-abrik	-1
 mengoceh	-1
-mengolok-olok	-1
+mengolok-olok	-2
 mengombang ambing	-1
 mengombangambingkan	-1
-mengomel	-1
+mengomel	-2
 mengomeli	-1
 mengompori	-1
 mengontaminasi	-1
@@ -2061,20 +2228,25 @@ mengotori	-1
 mengoyak	-1
 mengoyak-oyak	-1
 mengoyak-oyakkan	-1
+menguangkan	-2
+mengubur	-1
 mengucilkan	-1
 mengudeka	-1
 mengudeta	-1
 mengufurkan	-1
-mengulur	-1
+mengulur waktu	-2
 mengulur-ulur	-1
 mengumbar	-1
-mengumpat	-1
+mengumpat	-2
+mengundurkan diri	-1
+mengungkap	-1
 mengungkung	-1
 menguntit	-1
+mengurangi	-1
 mengurungkan	-1
 mengusik	-1
-mengusir	-1
-mengutuk	-1
+mengusir	-2
+mengutuk	-2
 mengutuki	-1
 meniduri	-1
 menihilkan	-1
@@ -2082,12 +2254,16 @@ menikam	-1
 menilap	-1
 menilep	-1
 menimpa	-1
-menindas	-1
-meninggal	-1
-menipu	-1
+menindaklanjuti	-1
+menindas	-2
+meninggal	-3
+menipu	-3
+menipu diri sendiri	-2
 meniru	-1
 meniru-niru	-1
 menistakan	-1
+menjadi korban	-3
+menjadikan korban	-3
 menjahati	-1
 menjaili	-1
 menjajah	-1
@@ -2103,17 +2279,20 @@ menjegal	-1
 menjelek-jelekkan	-1
 menjelekkan	-1
 menjemukan	-1
-menjengkelkan	-1
+menjengkelkan	-3
 menjenuhkan	-1
 menjerat	-1
 menjerit	-1
+menjijikkan	-3
 menjiplak	-1
+menjulang	-1
 menjungkirbalikkan	-1
 menodai	-1
 menodong	-1
 menodongkan	-1
 menohok	-1
-menolak	-1
+menolak	-2
+menonaktifkan	-1
 menonjok	-1
 menoyor	-1
 menskors	-1
@@ -2122,22 +2301,24 @@ mensomasikan	-1
 mentok	-1
 menubruk	-1
 menuding	-1
-menuduh	-1
+menuduh	-2
 menuduhkan	-1
 menular	-1
 menulari	-1
 menularkan	-1
 menumbalkan	-1
+menumpas	-1
 menumpulkan	-1
 menunda	-1
 menunda-nunda	-1
 menunggak	-1
+menunggu	-1
 menuntut	-1
-menurun	-1
-menusuk	-1
+menurunkan kualitas	-2
+menusuk	-2
 menusuk-nusuk	-1
 menusukkan	-1
-menutup-nutupi	-1
+menutup-nutupi	-3
 menutupi	-1
 menyabotase	-1
 menyabung	-1
@@ -2147,13 +2328,13 @@ menyakitkan	-1
 menyalahartikan	-1
 menyalahgunakan	-1
 menyalahi	-1
-menyalahkan	-1
+menyalahkan	-2
+menyamar	-1
 menyamarkan	-1
 menyampah	-1
 menyandera	-1
 menyanggah	-1
-menyangka	-1
-menyangkal	-1
+menyangkal	-2
 menyangkut	-1
 menyangkutpautkan	-1
 menyangsikan	-1
@@ -2162,15 +2343,24 @@ menyatroni	-1
 menyayangkan	-1
 menyayat	-1
 menyayat-nyayat	-1
+menyebalkan	-2
+menyedihkan	-2
+menyela	-2
 menyelahgunakan	-1
+menyerang	-1
+menyerbu	-2
+menyeret	-1
+menyesal	-2
+menyesali	-2
 menyesalkan	-1
+menyesatkan	-3
 menyia-nyiakan	-1
-menyiksa	-1
+menyiksa	-3
 menyikut	-1
 menyilet	-1
 menyimpang	-1
 menyindir	-1
-menyinggung	-1
+menyinggung	-2
 menyobek	-1
 menyobek-nyobek	-1
 menyodomi	-1
@@ -2187,37 +2377,40 @@ menyumpahi	-1
 menyumpel	-1
 menyundut	-1
 menyuruh-nyuruh	-1
+menyurutkan	-1
 menyusahi	-1
-menyusahkan	-1
+menyusahkan	-2
 menyusupkan	-1
 menzinahi	-1
 menzinai	-1
 meracau	-1
 meracuni	-1
-meradang	-1
-meragu	-1
+meradang	-2
 meragukan	-1
 merajalela	-1
 merajam	-1
-merajuk	-1
+merajuk	-2
 merampas	-1
-merampok	-1
+merampok	-2
 merancukan	-1
 merapuhkan	-1
 meratap	-1
 meratapi	-1
 merecoki	-1
 merekayasa	-1
-meremehkan	-1
+meremehkan	-2
+meremukkan	-1
 merendahkan	-1
 merengek	-1
 merengek-rengek	-1
 merenggut	-1
+merenung	-2
 merepotkan	-1
 meresahkan	-1
 meribut	-1
 meributkan	-1
 mericuhkan	-1
+meringankan	-1
 meringis	-1
 meringkuk	-1
 meringkus	-1
@@ -2231,72 +2424,63 @@ merompak	-1
 merongrong	-1
 meronta	-1
 meronta-ronta	-1
-merosot	-1
 meruetkan	-1
-merugi	-1
-merugikan	-1
+merugikan	-2
 merumahkan	-1
 merumitkan	-1
 merumpi	-1
 meruncing	-1
 merundung	-1
 merunyamkan	-1
-merusak	-1
+merusak	-3
 merusakkan	-1
 merusuh	-1
 merusuhi	-1
 merusuhkan	-1
 meruwetkan	-1
+mesin cuci hijau	-3
 mestinya	-1
-mesum	-1
 mewabah	-1
 meyikut	-1
 minder	-1
 minggat	-1
 minim	-1
-minta-minta	-1
+minta maaf	-1
+minuman keras	-1
 minus	-1
-miring	-1
 miris	-1
-miskin	-1
 mistis	-1
 misuh	-1
+mitos	-1
 modar	-1
-mogok	-1
 molor	-1
-monopoli	-1
+mongering	-2
+monopoli	-2
 monoton	-1
+mope	-1
 morat-marit	-1
-muak	-1
+muak	-3
 mubazir	-1
 mucikari	-1
+mudah tertipu	-2
 mudharat	-1
-munafik	-1
+munafik	-2
 mundur	-1
-mungkar	-1
-mungkir	-1
 muntaber	-1
-muntah	-1
 muntahan	-1
 murahan	-1
-muram	-1
-murka	-1
-murtad	-1
-murung	-1
+muram	-2
+murka	-3
+murung	-2
 musibah	-1
 muslihat	-1
-musnah	-1
-mustahil	-1
-musuh	-1
-musyrik	-1
-mutilas	-1
-mutilasi	-1
+musuh	-2
+n00b	-2
 naas	-1
-nafi	-1
 naga-naganya	-1
+nahas	-1
+naif	-2
 naik turun	-1
-najis	-1
-nakal	-1
 nanar	-1
 narapidana	-1
 narkoba	-1
@@ -2304,117 +2488,126 @@ narkotik	-1
 narkotika	-1
 narsis	-1
 narsisme	-1
-negatif	-1
+negatif	-2
+negativitas	-2
+negro	-5
 nekad	-1
-nekat	-1
 nekat-nekat	-1
 neko-neko	-1
 nelangsa	-1
 nepotisme	-1
-neraka	-1
-nestapa	-1
+neraka	-4
 ngacir	-1
 ngelantur	-1
+ngelindur	-1
+ngelunjak	-1
 ngenes	-1
-ngeri	-1
+ngeri	-3
 ngerumpi	-1
-ngeyel	-1
 ngilu	-1
 ngotot	-1
 ngoyo	-1
-nihil	-1
-nista	-1
+niggas	-5
 njelimet	-1
 no comment	-1
+nona	-2
 nonkooperatif	-1
 nonproduktif	-1
 nonsens	-1
+noob	-2
 norak	-1
-nyampah	-1
 nyelekit	-1
+nyengir	-1
 nyerocos	-1
 nyinyir	-1
-obrak-abrik	-1
+obat terlarang	-1
 obsesi	-1
 obsesif	-1
 obsolet	-1
 ocehan	-1
+offline	-1
 ogah	-1
 ogah-ogahan	-1
 oknum	-1
 oleng	-1
-olok-olok	-1
 olok-olokan	-1
-ombang-ambing	-1
-omel	-1
-omelan	-1
-onak	-1
-onar	-1
+omomg doang	-1
+omong kosong	-4
+ompong	-2
 ongkang-ongkang	-1
 opium	-1
 oplosan	-1
 oportunis	-1
+orang gila	-3
 ostentasi	-1
 otoriter	-1
+out of topic	-1
+oversell	-2
+overselling	-2
+oxymoron	-1
 paceklik	-1
 padahal	-1
 padat	-1
 paedofil	-1
-pahit	-1
-pailit	-1
-paksa	-1
+pahit	-2
 paksa-paksa	-1
-paksaan	-1
-palak	-1
 paling banter	-1
-palsu	-1
+paling gila	-2
+paling keras	-2
+paling kotor	-2
+palsu	-3
 pamer	-1
 pamrih	-1
 pandemi	-1
 pandemik	-1
-pandir	-1
 panik	-1
-parah	-1
+pantai	-1
+paradoks	-1
+parah	-2
 paranoia	-1
 paranoid	-1
 parasit	-1
+parodi	-2
 pas-pasan	-1
 pasai	-1
 pasif	-1
-pasung	-1
 pasungan	-1
-payah	-1
+patah hati	-3
+payah	-2
+payudara	-2
 pecandu	-1
-pecat	-1
-pecundang	-1
-pedih	-1
+pecundang	-3
 pedofil	-1
 pelabrakan	-1
-pelacur	-1
+pelacur	-5
 pelacuran	-1
 pelaknatan	-1
+pelaku	-2
+pelaku spam	-3
 pelalai	-1
 pelalaian	-1
 pelambatan	-1
 pelampiasan	-1
-pelanggar	-1
-pelanggaran	-1
+pelanggar	-2
+pelanggaran	-2
 pelecehan	-1
 peledak	-1
 peledakan	-1
 pelenyapan	-1
 pelik	-1
-pelit	-1
+pelit	-2
 pelonco	-1
 pelumpuhan	-1
-pelupa	-1
+pelupa	-2
 pemabuk	-1
 pemadat	-1
+pemakaman	-1
 pemaksaan	-1
 pemalakan	-1
 pemalas	-1
 pemalsu	-1
 pemalsuan	-1
+pemalu	-1
 pemandulan	-1
 pemarah	-1
 pemasungan	-1
@@ -2428,35 +2621,41 @@ pembangkangan	-1
 pembantah	-1
 pembantahan	-1
 pembantaian	-1
+pembasmian	-1
 pembatalan	-1
-pembatasan	-1
+pembatasan	-2
 pembebanan	-1
 pembeberan	-1
 pembelengguan	-1
+pembenci	-3
 pemberantakan	-1
+pemberantasan	-1
+pemberontakan	-2
 pemblokiran	-1
 pembobol	-1
 pembobolan	-1
 pembocoran	-1
 pembodohan	-1
-pembohong	-1
+pembohong	-3
 pemboikotan	-1
 pembolos	-1
 pembolosan	-1
 pembombardiran	-1
 pemboros	-1
 pemborosan	-1
-pembunuh	-1
+pembunuh	-2
 pembunuh bayaran	-1
-pembunuhan	-1
+pembunuhan	-3
 pemecah belah	-1
 pemecatan	-1
+pemerkosa	-4
+pemerkosaan	-4
 pemerosotan	-1
 pemfitnah	-1
 pemforsiran	-1
-pemogok	-1
 pemogokan	-1
 pemojokan	-1
+pemotongan	-1
 pemrotes	-1
 pemrotesan	-1
 pemukulan	-1
@@ -2466,10 +2665,15 @@ penabok	-1
 penabokan	-1
 penabrak	-1
 penabrakan	-1
+penahanan	-2
 penakut	-1
-penalti	-1
+penalti	-2
 penampar	-1
 penamparan	-1
+penanggulangan	-1
+penangkapan	-2
+penantang	-1
+penarikan	-3
 penawanan	-1
 pencabulan	-1
 pencaci	-1
@@ -2481,13 +2685,13 @@ pencaplok	-1
 pencaplokan	-1
 pencari kesalahan	-1
 pencari muka	-1
-pencatut	-1
+pencatut	-2
 pencatutan	-1
 pencegatan	-1
 pencekalan	-1
 pencela	-1
 pencelaan	-1
-pencemar	-1
+pencemar	-2
 pencemaran	-1
 pencerca	-1
 pencercaan	-1
@@ -2502,16 +2706,18 @@ pencopotan	-1
 pencorengan	-1
 pencuci otak	-1
 pencuci uang	-1
+pencucian hijau	-3
 pencucian otak	-1
 pencucian uang	-1
-penculik	-1
-penculikan	-1
+penculikan	-2
 pencuri	-1
 pencurian	-1
+pencurian kendaraan bermotor	-1
 pendakwaan	-1
 pendalangan	-1
 pendarahan	-1
-pendendam	-1
+pendek	-1
+pendendam	-2
 pendengki	-1
 pendepakan	-1
 pendeportasian	-1
@@ -2546,7 +2752,8 @@ pengacau	-1
 pengacauan	-1
 pengadu domba	-1
 pengaduan	-1
-pengangguran	-1
+pengangguran	-2
+pengatasan	-1
 pengebirian	-1
 pengebom	-1
 pengeboman	-1
@@ -2554,7 +2761,8 @@ pengecam	-1
 pengecaman	-1
 pengecoh	-1
 pengecohan	-1
-pengecut	-1
+pengecualian	-1
+pengecut	-2
 pengekangan	-1
 pengeksploitasi	-1
 pengeksploitasian	-1
@@ -2566,9 +2774,10 @@ pengeluh	-1
 pengembar-gemboran	-1
 pengemis	-1
 pengemplang	-1
+pengentasan	-1
 pengeroyokan	-1
 penggandaan uang	-1
-pengganggu	-1
+pengganggu	-2
 pengganjalan	-1
 penggasak	-1
 penggasakan	-1
@@ -2583,14 +2792,14 @@ penggrebekan	-1
 penggugatan	-1
 penggulingan	-1
 penggusuran	-1
-penghalang	-1
+penghalang	-2
 penghalang-halangan	-1
 penghancuran	-1
 penghancurleburan	-1
 penghasudan	-1
 penghasut	-1
 penghasutan	-1
-penghinaan	-1
+penghinaan	-2
 penghujat	-1
 penghujatan	-1
 pengibul	-1
@@ -2598,16 +2807,17 @@ pengibulan	-1
 pengidap	-1
 pengingkaran	-1
 pengisolasian	-1
-pengkhianat	-1
-pengkhianatan	-1
+pengkhianat	-3
+pengkhianatan	-3
 pengkritik	-1
 pengomel	-1
 pengotoran	-1
 pengucilan	-1
 pengumpat	-1
 pengumpatan	-1
+pengungkapan	-1
 pengungkungan	-1
-pengunjuk rasa	-1
+pengunjuk rasa	-2
 penguntit	-1
 pengurungan	-1
 pengusik	-1
@@ -2619,18 +2829,19 @@ penilap	-1
 penilapan	-1
 penilep	-1
 penilepan	-1
-penindas	-1
-penindasa	-1
-penindasan	-1
+penindasan	-2
 peninju	-1
-penipu	-1
-penipuan	-1
+penipu	-3
+penipuan	-3
 peniru	-1
 penistaan	-1
+penjahat	-3
+penjahat kelamin	-1
 penjajah	-1
 penjajahan	-1
 penjambret	-1
 penjambretan	-1
+penjara	-2
 penjarah	-1
 penjarahan	-1
 penjatuhan	-1
@@ -2642,41 +2853,44 @@ penolakan	-1
 penonjok	-1
 penonjokan	-1
 pensomasian	-1
-penular	-1
-penularan	-1
+penularan	-2
 penumpukan	-1
 penundaan	-1
 penunggak	-1
 penunggakan	-1
+penuntutan	-1
 penusuk	-1
 penusukan	-1
 penyabotase	-1
 penyabotasean	-1
 penyadap	-1
 penyadapan	-1
-penyakit	-1
+penyakit	-2
 penyakitan	-1
 penyalahan	-1
 penyalahartian	-1
-penyalahgunaan	-1
+penyalahgunaan	-3
+penyamaran	-1
 penyamun	-1
 penyandera	-1
 penyanderaan	-1
 penyanggah	-1
 penyanggahan	-1
-penyangkal	-1
+penyangkal	-2
 penyangkalan	-1
 penyangsi	-1
+penyebab stres	-2
+penyederhanaan berlebihan	-2
+penyesalan	-2
 penyia-nyiaan	-1
-penyiksa	-1
-penyiksaan	-1
+penyiksaan	-4
 penyikut	-1
 penyikutan	-1
 penyimpang	-1
 penyimpangan	-1
 penyindir	-1
 penyindiran	-1
-penyitaan	-1
+penyitaan	-2
 penyobekan	-1
 penyodomi	-1
 penyodomian	-1
@@ -2693,15 +2907,19 @@ penyumpahan	-1
 penyusahan	-1
 penyusutan	-1
 penzamiman	-1
+peperangan	-2
 peracunan	-1
 peradangan	-1
 peragu	-1
 perampas	-1
 perampasan	-1
-perampok	-1
+perampok	-2
 perampokan	-1
 perancuan	-1
+perang	-2
 peratapan	-1
+perbaiki	-1
+perbudakan	-3
 percaloan	-1
 percekcokan	-1
 percuma	-1
@@ -2718,11 +2936,17 @@ peribut	-1
 peributan	-1
 pericuh	-1
 pericuhan	-1
+peringatan	-3
+peringatkan	-2
 perisauan	-1
+perjuangan	-2
 perjudian	-1
 perkelahian	-1
 perlambatan	-1
-permusuhan	-1
+permintaan	-1
+permisi	-1
+permusuhan	-2
+pernyataan berlebihan	-2
 perobekan	-1
 perobohan	-1
 perompak	-1
@@ -2733,50 +2957,53 @@ perongrongan	-1
 perpecahan	-1
 perpisahan	-1
 persabungan	-1
+perselisihan	-2
 persoalan	-1
-persoalkan	-1
 pertanggungjawaban	-1
+pertempuran	-1
 pertengkaran	-1
 pertentangan	-1
 pertikaian	-1
 pertumpahan darah	-1
+perundingan	-1
 perusak	-1
 perusakan	-1
-perusuh	-1
 perusuhan	-1
 perzinaan	-1
 perzinahan	-1
 pesakitan	-1
+pesek	-2
+pesimis	-2
+pesimisme	-2
+petisi	-1
 pezina	-1
 pezinah	-1
-picik	-1
-pidana	-1
+pileup	-1
 pilu	-1
-pincang	-1
+pistol	-1
 plagiarisme	-1
 plagiat	-1
 plagiator	-1
+playboy	-1
 plin-plan	-1
 plintat-plintut	-1
-polemik	-1
+plintiran	-1
 politis	-1
-polusi	-1
+polusi	-2
 polutan	-1
-pongah	-1
 porak-poranda	-1
 porno	-1
 pornoaksi	-1
 pornografi	-1
 pornografis	-1
 porot	-1
-posesif	-1
+posesif	-2
+potong	-1
 prahara	-1
-prasangka	-1
-prasangka buruk	-1
 prasejahtera	-1
+prblm	-2
+prblms	-2
 preman	-1
-pretensi	-1
-prihatin	-1
 primitif	-1
 problem	-1
 problematik	-1
@@ -2784,211 +3011,208 @@ problematika	-1
 problematis	-1
 profan	-1
 profanitas	-1
-propaganda	-1
+propaganda	-2
 prostitusi	-1
-protes	-1
-provokasi	-1
+protes	-2
 provokatif	-1
 provokator	-1
+pseudosain	-3
 psikopat	-1
 psikotropika	-1
+puas diri	-2
+pucat	-2
 pukul-memukul	-1
 pungli	-1
 pupus	-1
-pura-pura	-1
 pusing	-1
 puso	-1
+putus asa	-3
+putusan	-1
 puyeng	-1
 rabies	-1
-rabun	-1
-racau	-1
-racun	-1
-radang	-1
+rabun dekat	-2
+racun	-2
 radikal	-1
 radikalisasi	-1
 radikalisme	-1
 ragu	-1
-ragu-ragu	-1
+ragu-ragu	-2
 raib	-1
-rajam	-1
-rakus	-1
 ramak	-1
-rampas	-1
-rampasan	-1
-rampok	-1
-rampokan	-1
-rancu	-1
-rapuh	-1
-rasis	-1
-rasisme	-1
-ratapan	-1
-rawan	-1
-rekayasa	-1
-remeh	-1
-rendah	-1
+rasa bersalah	-3
+rasis	-3
+rasisme	-3
+reaksi berlebihan	-2
+reklamasi	-1
+remehkan	-1
 rendahan	-1
-rengek	-1
-renggut	-1
-rentan	-1
+rentan	-2
 rentenir	-1
-reot	-1
-repot	-1
-resah	-1
+repot	-2
+representasi yang keliru	-2
+reruntuhan	-2
 resek	-1
-resesi	-1
+resesi	-2
 residivis	-1
 restriktif	-1
-retak	-1
+retorika	-1
 retorsi	-1
 retrogresi	-1
-rewel	-1
 rezim	-1
-riba	-1
-ribut	-1
-ricuh	-1
+ribet	-1
+rig	-1
+rindu kampung halaman	-2
 ringsek	-1
-rintih	-1
+rintangan	-2
 rintihan	-1
-risau	-1
 risih	-1
-risiko	-1
+risiko	-2
 riskan	-1
 riya	-1
-roboh	-1
-rodi	-1
-rompak	-1
-ronce	-1
-rongrong	-1
-rongrongan	-1
+robek	-2
+roboh	-2
 rongsok	-1
 rongsokan	-1
-ronta	-1
-rugi	-1
-rumit	-1
-rumpi	-1
-runtuh	-1
-runyam	-1
+ruam	-2
+runtuh	-2
 rusak	-1
-rusuh	-1
-ruwet	-1
-sableng	-1
-sabotase	-1
+sabotase	-2
 sabu-sabu	-1
-sabung	-1
-sadap	-1
-sadis	-1
 sadisme	-1
 sado masokis	-1
 sajen	-1
-sakit	-1
+sakit	-2
+sakit hati	-2
 sakit-sakitan	-1
-sakiti	-1
-salah	-1
+salah	-2
 salah arti	-1
 salah artikan	-1
 salah guna	-1
 salah gunakan	-1
+salah informasi	-2
+salah kostum	-1
+salah melaporkan	-2
+salah membaca	-1
+salah paham	-2
+salah tafsir	-2
+salah tingkah	-1
 salah-salah	-1
+salahkan	-2
 samaran	-1
-sambit	-1
-sandera	-1
+samarkan	-1
+sampah	-1
 sandewa	-1
 sandungan	-1
-sanggah	-1
+sangar	-1
+sangat	-3
+sangat marah	-2
 sanggahan	-1
 sangkaan	-1
-sangkal	-1
 sangkalan	-1
-sangsi	-1
 sanksi	-1
 santer	-1
-santet	-1
 sarkasme	-1
-sarkastik	-1
-sayangkan	-1
+sarkastik	-2
+sayangnya	-2
+scam	-2
 scripted	-1
 sebaliknya	-1
 sebatas	-1
+secara kontroversial	-2
+secara pasif	-1
+secara tidak sengaja	-2
 secuil	-1
-sedih	-1
+sedih	-3
 seemosional	-1
 seenaknya	-1
 sefanatik	-1
 segelintir	-1
+segini	-1
 seharusnya	-1
+seimankucingkurap	-1
 sekehendak	-1
 sekptis	-1
 sembarang	-1
-sembunyi	-1
+sembrono	-2
 sembunyi tangan	-1
-sengketa	-1
+sembunyikan	-1
+semu	-1
+sendiri	-2
+sengak	-1
+sengketa	-2
+sensor	-2
+seragam	-2
+serakah	-2
+seram	-1
+serang	-1
+serangan	-1
+serbu	-1
+seret	-1
+serius	-1
 sesuka hati	-1
 sesukanya	-1
 sesumbar	-1
+setan	-1
 setengah-setengah	-1
 seterpuruk	-1
-sewenang-wenang	-1
+seteru	-1
+setor	-1
 seyogyanya	-1
-sia-sia	-1
-sial	-1
-sialan	-1
-siksa	-1
-siksaan	-1
+sial	-3
+sialan	-4
+siap	-2
 sikut-menyikut	-1
-sikut-sikutan	-1
 silang segketa	-1
 siluman	-1
-simpang siur	-1
 sindikat	-1
-sindir	-1
 sindir-menyindir	-1
 sindiran	-1
-sinis	-1
-sinisme	-1
-sinting	-1
-sinyalir	-1
-sirik	-1
-sirikan	-1
-sita	-1
+singkirkan	-1
+sinis	-2
+sinisme	-2
+sisi negatifnya	-2
 sitaan	-1
 siwer	-1
-skandal	-1
-skeptis	-1
-skors	-1
-slebor	-1
+skandal	-3
+skeptis	-2
+skeptisisme	-2
+smear	-2
+snubs	-2
 soak	-1
-sodomi	-1
-sogok	-1
 sogokan	-1
-somasi	-1
-sombong	-1
+sok tahu	-1
+sombong	-2
 songong	-1
 sontoloyo	-1
+spam	-2
 spekulan	-1
-spekulasi	-1
-stagnan	-1
+spekulatif	-2
 stagnasi	-1
 statis	-1
-stres	-1
+stereotip	-2
+stres	-2
+striker	-2
 striptis	-1
 stroke	-1
-suap	-1
+suap	-3
 subjektif	-1
+subversif	-2
 subyektif	-1
 sudah padat	-1
 sudah penuh	-1
 suka-suka	-1
-sukar	-1
 sukarnya	-1
 sulit	-1
+sulit tidur	-2
 sulitnya	-1
+sumber	-1
+sumpah	-2
+sumpah palsu	-3
 sumpah serapah	-1
 sumpek	-1
 sundal	-1
-suram	-1
+suram	-2
 surat kaleng	-1
-susah	-1
-susah hati	-1
 susahnya	-1
 susuk	-1
 suudon	-1
@@ -2996,49 +3220,54 @@ suudzan	-1
 suudzon	-1
 suuzan	-1
 syahwat	-1
-syirik	-1
-syok	-1
-syubhat	-1
+syok	-2
 syur	-1
-tabok	-1
-tabrakan	-1
+tabrakan	-2
 tabu	-1
-tagih	-1
 tagihan	-1
-tahanan	-1
-tahi	-1
+tahan	-2
+tahanan	-2
+tajam	-3
+tak ada	-1
+tak akan	-1
+tak berdaya	-2
 tak berkesudahan	-1
+tak bisa	-1
+tak lagi	-1
+tak perlu	-1
+tak pernah	-1
 tak punya biaya	-1
-takabur	-1
 takhayul	-1
-takut	-1
-tamak	-1
-tampar	-1
+takut	-2
 tamparan	-1
 tandus	-1
-tanggung	-1
-tangis	-1
 tangisan	-1
+tangkap	-2
+tanpa henti	-1
+tanpa kegembiraan	-2
+tanpa opsi	-2
+tanpa pesona	-3
+tanpa roh	-2
+tantangan	-1
 taruhan	-1
-tawan	-1
 tawanan	-1
 tawuran	-1
 tedeng aling-aling	-1
-tega	-1
 tegaan	-1
+tegang	-2
+tegur	-2
 tekanan	-1
-telantar	-1
-telantarkan	-1
 telat	-1
+telat berpikir	-1
 teler	-1
 teluh	-1
-tembak	-1
+tembak	-2
 tembakan	-1
-tempeleng	-1
 tempelengan	-1
 temperamen	-1
 temperamental	-1
-tenggelam	-1
+tendang	-1
+tenggelam	-2
 tengik	-1
 tengil	-1
 tengkulak	-1
@@ -3047,17 +3276,19 @@ terabaikan	-1
 teracun	-1
 teracuni	-1
 teradu domba	-1
+teralihkan	-2
 terampas	-1
 terampok	-1
-terancam	-1
+terancam	-2
 terancukan	-1
 terbakar	-1
-terbalik	-1
 terbaring	-1
 terbata-bata	-1
+terbatas	-1
 terbatuk-batuk	-1
-terbebani	-1
+terbebani	-2
 terbeberkan	-1
+terbelakang	-2
 terbelenggu	-1
 terbelit	-1
 terbengkalai	-1
@@ -3068,8 +3299,11 @@ terbohongi	-1
 terboikot	-1
 terboros	-1
 terbosan	-1
+terbuang	-2
 terbujur kaku	-1
-terbunuh	-1
+terbunuh	-3
+terburu-buru	-2
+terburuk	-3
 tercabik	-1
 tercabik-cabik	-1
 tercabul	-1
@@ -3079,7 +3313,7 @@ tercegat	-1
 tercekal	-1
 tercekik	-1
 tercela	-1
-tercemar	-1
+tercemar	-2
 tercengeng	-1
 terceroboh	-1
 tercongkak	-1
@@ -3091,7 +3325,7 @@ terdaif	-1
 terdakwa	-1
 terdampar	-1
 terdamprat	-1
-terdegradasi	-1
+terdegradasi	-2
 terdepak	-1
 terdeportasi	-1
 terdesak	-1
@@ -3102,6 +3336,7 @@ terdholim	-1
 terdholimi	-1
 terdiskriminasi	-1
 terdiskualifikasi	-1
+terdistorsi	-2
 terdoktrin	-1
 terdompleng	-1
 terdungu	-1
@@ -3115,14 +3350,17 @@ tereksploitasi	-1
 terekspos	-1
 terekstrem	-1
 terekstrim	-1
+terendah	-1
 terengah-engah	-1
 terenggut	-1
 terfatal	-1
 tergagap-gagap	-1
-terganggu	-1
+terganggu	-2
 terganjal	-1
+tergelap	-2
 tergeletak	-1
-tergesa-gesa	-1
+tergelincir	-2
+tergoda	-1
 tergopoh	-1
 tergopoh-gpoh	-1
 terguncang	-1
@@ -3130,24 +3368,32 @@ tergusur	-1
 terhalang	-1
 terhambat	-1
 terhasut	-1
+terhenti	-2
 terheran-heran	-1
 terhina	-1
-teriakan	-1
+teriak	-2
+teriakan	-2
 teribut	-1
 tericuh	-1
-terinfeksi	-1
+terinfeksi	-2
 terinjak-injak	-1
+terintimidasi	-2
 terisak	-1
+terisi	-3
 terisolasi	-1
 terisolir	-1
 terjajah	-1
+terjawab	-2
+terjebak	-2
 terjerat	-1
 terkapar	-1
 terkasar	-1
 terkatung-katung	-1
 terkebiri	-1
 terkecoh	-1
+terkejut	-2
 terkekang	-1
+terkenal kejam	-2
 terkendala	-1
 terkibuli	-1
 terkontaminasi	-1
@@ -3157,35 +3403,39 @@ terkotor	-1
 terkotori	-1
 terkoyak	-1
 terkucil	-1
-terkulai	-1
+terkulai	-2
 terkungkung	-1
-terkutuk	-1
+terkutuk	-4
 terlalai	-1
 terlalaikan	-1
-terlalu	-1
+terlalu disederhanakan	-2
+terlalu menyederhanakan	-2
 terlalu murah	-1
-terlambat	-1
+terlambat	-2
 terlampau	-1
 terlanggar	-1
+terlanjur	-1
 terlantar	-1
 terlemah	-1
 terlena	-1
+terlepas	-1
 terletih	-1
 terlicik	-1
 terloyo	-1
-terluka	-1
+terluka	-2
 terlunta	-1
 terlunta-lunta	-1
 terlupa	-1
 termakan	-1
+termenung	-1
+termiskin	-2
 ternista	-1
 ternoda	-1
 ternodai	-1
 terombang-ambing	-1
-teror	-1
+teror	-3
 teroris	-1
 terorisme	-1
-terpaksa	-1
 terpecah	-1
 terpecah belah	-1
 terpecah-pecah	-1
@@ -3194,12 +3444,12 @@ terpengaruh	-1
 terperdaya	-1
 terpidana	-1
 terpinggirkan	-1
-terpojok	-1
+terpojok	-2
 terpojokkan	-1
 terprovokasi	-1
 terpukul	-1
-terpuruk	-1
-terputus	-1
+terputus	-2
+terputus-putus	-2
 tersableng	-1
 tersabotase	-1
 tersadis	-1
@@ -3215,15 +3465,15 @@ tersangka	-1
 tersangsikan	-1
 tersantet	-1
 tersayat	-1
-terserang	-1
+tersedak	-2
+terserang	-2
 terseret	-1
-tersesat	-1
+tersesat	-3
 tersia-siakan	-1
 tersial	-1
-tersiksa	-1
 tersikut	-1
 tersindir	-1
-tersinggung	-1
+tersinggung	-2
 tersingkap	-1
 tersinis	-1
 tersinting	-1
@@ -3243,361 +3493,197 @@ tersuntuk	-1
 tersuram	-1
 tersusah	-1
 tertabrak	-1
+tertahan	-1
 tertampar	-1
 tertandus	-1
 tertangkap	-1
 tertatih-tatih	-1
+tertegun	-2
+tertekan	-2
 tertembak	-1
 tertembus	-1
 tertikam	-1
-tertindas	-1
+tertindas	-2
 tertinggal	-1
-tertipu	-1
+tertipu	-3
 tertohok	-1
 tertolol	-1
-tertuduh	-1
+tertuduh	-2
 tertular	-1
 tertulari	-1
 tertunda	-1
 tertunduk	-1
 tertusuk	-1
-terusik	-1
+terusik	-2
 terusir	-1
 terzalim	-1
 terzalimi	-1
 tetek bengek	-1
-tewas	-1
-tewaskan	-1
+tidak	-1
+tidak acuh	-1
+tidak ada artinya	-2
 tidak ada biaya	-1
 tidak ada uang	-1
+tidak adil	-2
 tidak akan tercatat	-1
-tidak berdaya	-1
+tidak aman	-2
+tidak bagus	-2
+tidak bekerja	-3
+tidak berdaya	-2
+tidak berfungsi	-3
+tidak berguna	-2
+tidak berharga	-2
 tidak berkesudahan	-1
 tidak bernyawa	-1
+tidak bertindak	-2
+tidak bisa bergerak	-1
+tidak bisa dicintai	-2
+tidak bisa diterima	-2
+tidak canggih	-2
+tidak cerdas	-2
 tidak dapat dieksekusi	-1
+tidak dapat diubah	-1
+tidak dicintai	-2
+tidak didukung	-2
+tidak dihargai	-2
+tidak dihormati	-2
+tidak diinginkan	-2
+tidak dikreditkan	-1
+tidak disengaja	-2
+tidak disetujui	-2
+tidak diteliti	-2
+tidak efektif	-2
+tidak etis	-2
+tidak fokus	-2
 tidak hanya	-1
+tidak hormat	-2
+tidak jelas	-1
+tidak jujur	-2
+tidak kompeten	-2
+tidak lagi	-1
+tidak layak	-2
+tidak lucu	-1
+tidak mampu	-2
+tidak manusiawi	-2
+tidak masuk akal	-2
+tidak mau tahu	-1
+tidak memadai	-2
+tidak memberikan	-1
+tidak mengerti	-2
+tidak menimbulkan	-1
+tidak menyenangkan	-3
 tidak mungkin	-1
+tidak nyaman	-2
+tidak pasti	-1
+tidak peduli	-2
+tidak pengertian	-2
+tidak percaya	-2
+tidak perlu	-1
 tidak pernah disebutkan	-1
+tidak profesional	-2
+tidak puas	-2
 tidak punya dana	-1
+tidak punya pekerjaan	-1
+tidak punya uang	-1
+tidak rasional	-1
+tidak sabar	-2
+tidak sadar	-2
+tidak sama	-1
+tidak sehat	-2
+tidak sempurna	-2
+tidak senang	-2
+tidak sensitif	-2
+tidak signifikan	-2
+tidak stabil	-2
+tidak suka	-2
+tidak tahan	-3
+tidak tahu	-1
+tidak teratur	-2
+tidak terkesan	-2
+tidak termotivasi	-2
+tidak terpenuhi	-2
+tidak yakin	-1
 tifus	-1
-tikam	-1
 tikam-menikam	-1
 tikaman	-1
-tilap	-1
-tilep	-1
-timpang	-1
-tindas	-1
+tikus	-4
+tinggalkan	-2
 tipikor	-1
-tipu	-1
+tipu daya	-2
 tipu tipuan	-1
-tiran	-1
+tipuan	-2
 tirani	-1
-tiru	-1
 tiruan	-1
-todong	-1
 togel	-1
-tohok	-1
-tolol	-1
+tolak	-2
+tolol	-3
 tornado	-1
-toyor	-1
-tragedi	-1
-tragis	-1
-trauma	-1
-traumatis	-1
+totalitarianisme	-2
+totaliter	-2
+toto gelap	-1
+tout	-2
+tragedi	-2
+tragis	-2
+trauma	-3
+traumatis	-3
 tremor	-1
 tsunami	-1
 tuak	-1
 tuba	-1
-tubrukan	-1
-tuding	-1
 tuding-menuding	-1
 tudingan	-1
-tuduh	-1
 tuduh-menuduh	-1
-tuduhan	-1
-tumbal	-1
+tuduhan	-2
+tukang jualan	-2
 tumbang	-1
-tumpang tindih	-1
-tumpang-tindih	-1
+tumor	-2
 tuna susila	-1
 tunasusila	-1
+tunda	-1
 tunggak	-1
 tunggakan	-1
 tunggang langgang	-1
+tunggu	-1
+tuntut	-1
 tuntutan	-1
-turun	-1
-tutup	-1
+tuntutan hukum	-2
+turunkan	-2
+tusuk	-2
 tutup mata	-1
+twat	-5
 uang haram	-1
 udal-ugalan	-1
 udik	-1
 ugal-ugalan	-1
 ujub	-1
-umbar	-1
-umpat	-1
-umpatan	-1
 uneg-uneg	-1
 unek-unek	-1
-unjuk rasa	-1
+ungkapkan	-1
 untung-untungan	-1
 urakan	-1
 urgent	-1
 uring-uringan	-1
-urung	-1
-usang	-1
-usik	-1
-usil	-1
-usir	-1
-utang	-1
+usang	-2
+usil	-2
 vandal	-1
 vandalisme	-1
 vendeta	-1
 virulen	-1
 virus	-1
 vulgar	-1
-wabah	-1
 waduh	-1
+wajah sialan	-4
+wajib	-1
+wanita pria	-1
 wanti-wanti	-1
-was-was	-1
+waras	-1
+warung	-2
+was-was	-2
 waspada	-1
 waswas	-1
-zalim	-1
-zina	-1
-zinah	-1
-zionis	-1
-aduh	-1
-dunia gemerlap	-1
-asal jadi	-1
-anjing	-1
-apa sih	-1
-asal bunyi	-1
-asam	-1
-asli tapi palsu	-1
-asli tetapi palsu	-1
-asal tulis	-1
-tidak mau tahu	-1
-awas	-1
-banyak bicara	-1
-balas	-1
-banci	-1
-benci	-1
-bubar	-1
-bubarkan	-1
-makelar	-1
-cari perhatian	-1
-tidak punya uang	-1
-cegah tangkal	-1
-pendek	-1
-tidak acuh	-1
-cuek	-1
-culun	-1
-pencurian kendaraan bermotor	-1
-dihancurkam	-1
-playboy	-1
-emang gue pikirin	-1
-makan teman	-1
-gagap teknologi	-1
-gagal total	-1
-sangar	-1
-tidak mau	-1
-tidak tahu	-1
-gigi nongol	-1
-gigi mancung	-1
-tidak jelas	-1
-bahan peledak	-1
-tidak suka	-1
-jarang dibelai	-1
-jaga image	-1
-tidak lucu	-1
-jijik	-1
-terlanjur	-1
-keras kepala	-1
-mau tahu	-1
-ketahuan	-1
-garing	-1
-kurang pergaulan	-1
-lawan	-1
-macam-macam	-1
-gaji buta	-1
-makelar kasus	-1
-minuman keras	-1
-melulu	-1
-alkohol	-1
-adiktif	-1
-obat terlarang	-1
-terlarang	-1
-tidak punya pekerjaan	-1
-bicara sembarangan	-1
-sembarangan	-1
-bicara terus-terusan	-1
-ikut campur	-1
-bertumpuk	-1
-omomg doang	-1
-out of topic	-1
-sampah	-1
-penjahat kelamin	-1
-ribet	-1
-salah tingkah	-1
-salah kostum	-1
-sok tahu	-1
-sok	-1
-telat berpikir	-1
-menyebalkan	-1
-toto gelap	-1
-tai	-1
-wanita pria	-1
 what the fuck	-1
 what the hell	-1
+wtf	-4
 ya sudah	-1
-ck	-1
-mengklaim	-1
-sesat	-1
-tuntut	-1
-leceh	-1
-memelintir	-1
-plintiran	-1
-ahoker	-1
-tangkap	-1
-kurang	-1
-akting	-1
-lapor	-1
-bukan	-1
-tidak	-1
-hapus	-1
-serang	-1
-seram	-1
-gusur	-1
-arogan	-1
-semu	-1
-retorika	-1
-cukong	-1
-reklamasi	-1
-ganda	-1
-sengaja	-1
-sengak	-1
-jilat	-1
-mangkal	-1
-mati	-1
-hipnotis	-1
-bugil	-1
-bacot	-1
-seteru	-1
-karma	-1
-buzzer	-1
-buang	-1
-setor	-1
-ngelunjak	-1
-sikut	-1
-ciut	-1
-ledak	-1
-tahan	-1
-penjara	-1
-kandang	-1
-kontol	-1
-setan	-1
-harimau	-1
-gantung	-1
-sara	-1
-bodong	-1
-fpi	-1
-kecut	-1
-klaim	-1
-hitam	-1
-tikus	-1
-homo	-1
-serbu	-1
-lempar	-1
-pukul	-1
-tendang	-1
-ngelindur	-1
-maut	-1
-bandit	-1
-uap	-1
-bacok	-1
-kelit	-1
-laut	-1
-pantai	-1
-sumber	-1
-waras	-1
-mewah	-1
-nafsu	-1
-noda	-1
-pecah	-1
-lubang	-1
-tabrak	-1
-tikai	-1
-larang	-1
-lari	-1
-cerca	-1
-petisi	-1
-instan	-1
-balik	-1
-balikin	-1
-konfil	-1
-mentah	-1
-firaun	-1
-dalang	-1
-nahas	-1
-kamiahok	-1
-lantar	-1
-telan	-1
-perbaiki	-1
-segini	-1
-kucingkurap	-1
-seimankucingkurap	-1
-nyengir	-1
-belum	-1
-belum dapat	-1
-berhenti	-1
-dihentikan	-1
-diselesaikan	-1
-engga	-1
-enggak	-1
-ga	-1
-kekurangan	-1
-memberantas	-1
-menangani	-1
-mencegah	-1
-mengatasi	-1
-mengubur	-1
-mengungkap	-1
-mengurangi	-1
-menindaklanjuti	-1
-menyurutkan	-1
-meringankan	-1
-nggak	-1
-pemberantasan	-1
-penanggulangan	-1
-pengentasan	-1
-tak	-1
-tak ada	-1
-tak akan	-1
-tak bisa	-1
-tak lagi	-1
-tak perlu	-1
-tak pernah	-1
-tak punya	-1
-tidak ada	-1
-tidak akan	-1
-tidak bisa	-1
-tidak lagi	-1
-tidak memberikan	-1
-tidak menimbulkan	-1
-tidak perlu	-1
-tidak pernah	-1
-tidak punya	-1
-diatasi	-1
-diberantas	-1
-dicegah	-1
-dikubur	-1
-diringankan	-1
-disurutkan	-1
-ditangani	-1
-ditindaklanjuti	-1
-diungkap	-1
-jangan	-1
-membasmi	-1
-menumpas	-1
-pembasmian	-1
-pengatasan	-1
-pengungkapan	-1
+yucky	-2
+zionis	-1
