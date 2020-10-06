@@ -11,13 +11,13 @@ let sentiments: {[i: string]: any} = {
 
 
 // negatif.txt
-let negatif: any[] = fs.readFileSync('dataset/sentiment/negatif.txt').toString().split("\n")
+let negatif: any[] = fs.readFileSync('dataset/sentiment/negatif.txt').toString().toLowerCase().split("\n")
 negatif = Array.from(new Set(negatif))
 negatif.sort()
 
 
 // positif
-let positif: any[] = fs.readFileSync('dataset/sentiment/positif.txt').toString().split("\n")
+let positif: any[] = fs.readFileSync('dataset/sentiment/positif.txt').toString().toLowerCase().split("\n")
 positif = Array.from(new Set(positif))
 positif.sort()
 
