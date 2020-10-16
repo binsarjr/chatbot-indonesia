@@ -46,4 +46,20 @@
     "intent": "greetings.islam",
     "utterances": ["assalamualaikum", "assalamualaikum warahmatullahi wabarakatu"],
     "answers": ["Waalaikumsalam", "Waalaikumsalam warahmatullahi wabarakatuh"]
+}, {
+    "intent": "greetings.whatareyoudoing",
+    "utterances": ["lagi apa", "sedang apa", "kamu sedang apa", "kamu lagi apa"],
+    "answers": ["Mengobrol dengan kamu", "Menunggu balasan dari kamu"]
+}, {
+    "intent": "greetings.day",
+    "utterances": ["pagi", "selamat pagi"],
+    "answers": ["Pagi juga", "Selamat Pagi juga"]
+}, {
+    "intent": "greetings.noon",
+    "utterances": ["siang", "selamat siang"],
+    "answers": ["Siang juga", "Selamat Siang juga"]
+}, {
+    "intent": "greetings.night",
+    "utterances": ["malam", "selamat malam"],
+    "answers": ["malam juga", "selamat malam juga"]
 }]
