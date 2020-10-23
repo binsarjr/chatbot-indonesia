@@ -2,3 +2,4 @@ node_modules/
 dist/
 package-lock.json
 dataset/idwiki-l*.bz2
+model.nlp
