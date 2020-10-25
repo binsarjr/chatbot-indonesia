@@ -1,20 +1,54 @@
-import { Filesystem } from "./Filesystem";
+// Interfaces
+import { NodeNlp } from "../interfaces";
 
-
-class Sentiment {
-  sentimentDir: string;
-  negative: any[] = [];
-  constructor(sentimentDir: string) {
-    this.sentimentDir = sentimentDir;
-  }
-  load = async () => {
-    let files = new Filesystem().getFiles(this.sentimentDir, false);
-    return files;
-  }
+// set local interfaces
+type NlpManager = NodeNlp.NlpManager
+interface SentimentJson {
+  word: string;
+  point: number;
 }
 
-; (async () => {
-  let sentiment = new Sentiment('dataset/sentiment/');
-  let files = await sentiment.load();
-  console.log(files);
-})()
+// Library
+import fs from "fs";
+
+export class SentimentManager {
+  manager: NlpManager
+  constructor(manager: NlpManager) {
+    this.manager = manager
+  }
+
+  loadCsv = (language: string, filepath: string) => {
+    let lines = fs.readFileSync(filepath).toString().split("\n")
+    for (let line of lines) {
+      let data = line.split("\t")
+      let word = data[0]
+      let point = parseInt(data[1])
+      this.add(language, word, point)
+    }
+  }
+
+  loadJson = (language: string, filepath: string) => {
+    let sentiments: SentimentJson[] = JSON.parse(fs.readFileSync(filepath).toString())
+    for (let sentiment of sentiments) {
+      this.add(language, sentiment.word, sentiment.point)
+    }
+  }
+
+  add = (language: string, word: string, point: number) => {
+    word = word.toLowerCase()
+    let sentiment = this.manager.container.get(`sentiment-${language}`)
+
+    if (!(word in sentiment.afinn)) {
+      sentiment.afinn[word] = point
+    }
+  }
+
+  remove = (language: string, word: string) => {
+    word = word.toLowerCase()
+    let sentiment = this.manager.container.get(`sentiment-${language}`)
+
+    if (word in sentiment.afinn) {
+      delete sentiment.afinn[word]
+    }
+  }
+}
