@@ -6,8 +6,8 @@ import { EntitiesManager, SentimentManager, Filesystem } from "./manager";
 import fs from "fs";
 
 
-const {ConversationContext} = require('node-nlp');
-const context = new ConversationContext();
+const { NlpManager, ConversationContext } = require('node-nlp');
+
 interface ChatbotOptions {
     modelpath: string;
     language: string;
@@ -19,6 +19,7 @@ interface ChatbotTrainOptions {
 }
 
 
+const context = new ConversationContext();
 export class Chatbot {
     modelpath: string
     entities: EntitiesManager
@@ -27,10 +28,14 @@ export class Chatbot {
     filesystem: Filesystem
     language: string
 
-    constructor(manager: NodeNlp.NlpManager, opts: ChatbotOptions) {
+    constructor(opts: ChatbotOptions) {
         this.modelpath = opts.modelpath
         this.language = opts.language
-        this.manager = manager
+        this.manager = new NlpManager({
+            languages: [this.language],
+            forceNER: true,
+            nlu: { log: true }
+        });
         this.entities = new EntitiesManager(this.language, this.manager)
         this.sentiment = new SentimentManager(this.language, this.manager)
         this.filesystem = new Filesystem()
@@ -41,10 +46,10 @@ export class Chatbot {
         let corpus: CorpusObject[] = file
         corpus.forEach(data => {
             if (data.intent !== 'None') {
-                data.utterances.forEach(utterance => this.manager.addDocument("id", utterance.toLowerCase(), data.intent));
-                data.answers.forEach(answer => this.manager.addAnswer("id", data.intent, answer));
+                data.utterances.forEach(utterance => this.manager.addDocument(this.language, utterance.toLowerCase(), data.intent));
+                data.answers.forEach(answer => this.manager.addAnswer(this.language, data.intent, answer));
             } else {
-                data.answers.forEach(answer => this.manager.addAnswer("id", "None", answer));
+                data.answers.forEach(answer => this.manager.addAnswer(this.language, "None", answer));
             }
         });
     }
@@ -65,7 +70,7 @@ export class Chatbot {
         this.manager.save(this.modelpath)
     }
 
-    process = async (utterance: string) =>  {
+    process = async (utterance: string) => {
         return await this.manager.process(this.language, utterance, context)
     }
 }

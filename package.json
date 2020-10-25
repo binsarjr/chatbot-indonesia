@@ -18,6 +18,7 @@
         "@nlpjs/nlp": "^4.11.2",
         "@nlpjs/qna-importer": "^4.4.0",
         "@nlpjs/sentiment": "^4.14.1",
+        "@nlpjs/utils": "^4.14.0",
         "dotenv": "^8.2.0",
         "lodash": "^4.17.20",
         "nalapa": "^1.11.0",

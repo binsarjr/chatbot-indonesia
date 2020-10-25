@@ -1,17 +1,10 @@
-import { ENVInterface } from "./interfaces";
+import { ENVInterface, NodeNlp } from "./interfaces";
 
 import { Chatbot } from "./Chatbot";
 
-const { NlpManager } = require('node-nlp');
+
 const { ConsoleConnector } = require('@nlpjs/console-connector')
 
-
-let locale: string = "id";
-const manager = new NlpManager({
-    languages: [locale],
-    forceNER: true,
-    nlu: { log: false }
-});
 const connector = new ConsoleConnector()
 
 const ENV: ENVInterface = {
@@ -19,8 +12,8 @@ const ENV: ENVInterface = {
     modelpath: process.env.PATH_MODEL
 }
 
-let bot = new Chatbot(manager, {
-    language: 'id',
+let bot = new Chatbot({
+    language: "id",
     modelpath: ENV.modelpath
 });
 (async () => {
@@ -40,16 +33,18 @@ let bot = new Chatbot(manager, {
 
 
     await bot.corpusByDir(ENV.corpus_dir)
-    await bot.manager.train()
+    await bot.train({ minified: true, force: true })
 
-
+    
     connector.onHear = async (parent: any, line: any) => {
         if (line.toLowerCase() === 'quit') {
-            connector.destroy();
-            process.exit();
+            connector.exit();
         } else {
-            const result = await bot.process(line.toLowerCase())
-            connector.say(result.answer);
+            const result: NodeNlp.process = await bot.process(line.toLowerCase())
+            console.log(result)
+            if(result.score > 0.79) {
+                connector.say(result.answer);
+            }
         }
     };
     connector.say("Say something...")

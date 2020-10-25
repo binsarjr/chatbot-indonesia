@@ -95,7 +95,7 @@ export interface NlpManager {
   addBeforeLastCondition(locale: string, name: string, words: string[], opts: any): any;
   describeLanguage(locale: string, name: string): any;
   train(): any;
-  process(locale?: string, utterance?: string, context ? : any, settings ? : any): Promise<process>;
+  process: Function;
   extractEntities(locale: string, utterance: string, context: any, settings: any): any;
   toObj(): any;
   fromObj(obj: any): any;
