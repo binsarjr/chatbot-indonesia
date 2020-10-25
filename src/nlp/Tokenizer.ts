@@ -2,8 +2,6 @@ const Nalapa = require('nalapa')
 const NalapaTokenizer = Nalapa.tokenizer
 const NalapaWord = Nalapa.word
 
-var sastrawi = require('sastrawijs');
-var stemmer = new sastrawi.Stemmer();
 
 import {
     Word
@@ -47,18 +45,4 @@ export class Tokenizer {
         return filterd
     }
 
-    static text_correction(tokenized: any[]): any {
-        // let data: any[] = fs.readFileSync('./workdir/text_base/id/A.txt').toString().split("\n")
-        // data.forEach((line: string) => {
-        //     console.log(line.split(" ")[0])
-        // })
-
-        let results: any[] = []
-        tokenized.forEach((token: string) => {
-            console.log(stemmer.stem(token))
-            // let correction = autocorrect(token)
-            // console.log(correction)
-
-        })
-    }
 }
