@@ -38,9 +38,7 @@ export class SentimentManager {
     word = word.toLowerCase()
     let sentiment = this.manager.container.get(`sentiment-${language}`)
 
-    if (!(word in sentiment.afinn)) {
-      sentiment.afinn[word] = point
-    }
+    sentiment.afinn[word] = point
   }
 
   remove = (language: string, word: string) => {
