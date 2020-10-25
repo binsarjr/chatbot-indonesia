@@ -1,7 +1,7 @@
 require('dotenv').config()
 
 import fs from "fs";
-import { ENVInterface } from "./ChatbotInterface";
+import { ENVInterface } from "./interfaces/ChatbotInterface";
 
 const ENV: ENVInterface = {
     corpus_dir: process.env.PATH_CORPUS_DIR,
