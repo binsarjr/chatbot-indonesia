@@ -13,37 +13,39 @@ import fs from "fs";
 
 export class SentimentManager {
   manager: NlpManager
-  constructor(manager: NlpManager) {
+  language: string;
+  constructor(language: string,manager: NlpManager) {
     this.manager = manager
+    this.language=language
   }
 
-  loadCsv = (language: string, filepath: string) => {
+  loadCsv = (filepath: string) => {
     let lines = fs.readFileSync(filepath).toString().split("\n")
     for (let line of lines) {
       let data = line.split("\t")
       let word = data[0]
       let point = parseInt(data[1])
-      this.add(language, word, point)
+      this.add(word, point)
     }
   }
 
-  loadJson = (language: string, filepath: string) => {
+  loadJson = (filepath: string) => {
     let sentiments: SentimentJson[] = JSON.parse(fs.readFileSync(filepath).toString())
     for (let sentiment of sentiments) {
-      this.add(language, sentiment.word, sentiment.point)
+      this.add(sentiment.word, sentiment.point)
     }
   }
 
-  add = (language: string, word: string, point: number) => {
+  add = (word: string, point: number) => {
     word = word.toLowerCase()
-    let sentiment = this.manager.container.get(`sentiment-${language}`)
+    let sentiment = this.manager.container.get(`sentiment-${this.language}`)
 
     sentiment.afinn[word] = point
   }
 
-  remove = (language: string, word: string) => {
+  remove = ( word: string) => {
     word = word.toLowerCase()
-    let sentiment = this.manager.container.get(`sentiment-${language}`)
+    let sentiment = this.manager.container.get(`sentiment-${this.language}`)
 
     if (word in sentiment.afinn) {
       delete sentiment.afinn[word]

@@ -14,25 +14,27 @@ import fs from "fs";
 
 export class EntitiesManager {
   manager: NlpManager
-  constructor(manager: NlpManager) {
+  language: string
+  constructor(language: string, manager: NlpManager) {
     this.manager = manager
+    this.language = language
   }
 
-  loadCsv = (languages: string[], filepath: string) => {
+  loadCsv = (filepath: string) => {
     let lines = fs.readFileSync(filepath).toString().split("\n")
     for (let line of lines) {
       let data = line.split("\t")
       let entityName = data[0]
       let optionName = data[1]
       let texts = data[2].split(',')
-      this.add(entityName, optionName, languages, texts)
+      this.add(entityName, optionName, [this.language], texts)
     }
   }
 
-  loadJson = (languages: string[], filepath: string) => {
+  loadJson = (filepath: string) => {
     let entities: EntityJson[] = JSON.parse(fs.readFileSync(filepath).toString())
     for (let entity of entities) {
-      this.add(entity.entityName, entity.optionName, languages, entity.texts)
+      this.add(entity.entityName, entity.optionName, [this.language], entity.texts)
     }
   }
 

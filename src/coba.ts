@@ -1,4 +1,4 @@
-import { SentimentManager,EntitiesManager } from "./manager";
+import { SentimentManager, EntitiesManager } from "./manager";
 
 
 const { NlpManager, ConversationContext } = require('node-nlp');
@@ -9,8 +9,8 @@ const entities = new EntitiesManager(manager);
 const sentimentManager = new SentimentManager(manager)
 
 
-entities.loadCsv(['id'],'dataset/entities/example.csv')
-entities.loadJson(['id'],'dataset/entities/example.json')
+entities.loadCsv('id', 'dataset/entities/example.csv')
+entities.loadJson('id', 'dataset/entities/example.json')
 
 sentimentManager.loadCsv('id', 'dataset/sentiment/example.csv')
 sentimentManager.loadJson('id', 'dataset/sentiment/example.json')

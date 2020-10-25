@@ -9,9 +9,3 @@ export interface CorpusObject {
     utterances: any[];
     answers: any[];
 }
-
-export interface CorpusStructure {
-    name ? : string;
-    locale: string;
-    data: CorpusObject[]
-}

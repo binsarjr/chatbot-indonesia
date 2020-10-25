@@ -26,9 +26,6 @@
     },
     "devDependencies": {
         "typescript": "^3.9.5",
-        "@types/axios": "^0.14.0",
-        "@types/natural": "^2.1.0",
-        "@types/node": "^14.0.13",
-        "@types/papaparse": "^5.2.2"
+        "@types/node": "^14.0.13"
     }
 }

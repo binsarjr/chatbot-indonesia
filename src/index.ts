@@ -1,36 +1,56 @@
-import { train, addQnA } from "./nlp_utils";
+import { ENVInterface } from "./interfaces";
 
-const {
-    NlpManager
-} = require('node-nlp');
+import { Chatbot } from "./Chatbot";
 
-const {
-    ConsoleConnector
-} = require('@nlpjs/console-connector')
+const { NlpManager } = require('node-nlp');
+const { ConsoleConnector } = require('@nlpjs/console-connector')
 
+
+let locale: string = "id";
 const manager = new NlpManager({
-    languages: ['id'],
+    languages: [locale],
     forceNER: true,
+    nlu: { log: false }
 });
-
-
-(async () => {
-    await addQnA("Mengapa HTML tidak dianggap sebagai bahasa pemrograman?|Kenapa HTML Bukanlah Bahasa Pemrograman|kenapa html bukan bahasa pemograman|apakah html itu bahasa pemograman?","HTML merupakan akronim dari Hypertext Markup Language. Dari namanya saja sudah kelihatan kalau HTML itu bahasa markup, bukan bahasa pemrograman. HTML itu diibaratkan sebagai “wadah” bagi bahasa pemrograman web, seperti PHP, Javascript.|Ada banyak kriteria yang menentukan sebuah bahasa adalah bahasa pemrograman. Kriteria yang paling mendasar adalah apakah bahasa tersebut Turing-Complete, atau dengan kata lain, bisa menjalankan Turing Machine. Sebuah bahasa yang Turing-Complete adalah bahasa yang cukup powerful untuk menjalankan semua komputasi yang ada di dunia. Sedangkan HTML tidak memenuhi kriteria ini",manager)
-})();
-
 const connector = new ConsoleConnector()
-connector.onHear = async (parent: any, line: any) => {
-    if (line.toLowerCase() === 'quit') {
-        connector.destroy();
-        process.exit();
-    } else {
-        const result = await manager.process(line.toLowerCase());
-        console.log(result)
-        connector.say(result.answer);
-    }
-};
 
+const ENV: ENVInterface = {
+    corpus_dir: process.env.PATH_CORPUS_DIR,
+    modelpath: process.env.PATH_MODEL
+}
+
+let bot = new Chatbot(manager, {
+    language: 'id',
+    modelpath: ENV.modelpath
+});
 (async () => {
-    await train(manager);
-    connector.say('Say something!');
-})();
+    let files: string[]
+    // Load entities
+    files = await bot.filesystem.getFiles('dataset/entities/csv')
+    files.forEach(file => bot.entities.loadCsv(file))
+    files = await bot.filesystem.getFiles('dataset/entities/json')
+    files.forEach(file => bot.entities.loadJson(file))
+
+    // Load sentiment
+    files = await bot.filesystem.getFiles('dataset/sentiment/csv')
+    files.forEach(file => bot.sentiment.loadCsv(file))
+    files = await bot.filesystem.getFiles('dataset/sentiment/json')
+    files.forEach(file => bot.sentiment.loadJson(file))
+
+
+
+    await bot.corpusByDir(ENV.corpus_dir)
+    await bot.manager.train()
+
+
+    connector.onHear = async (parent: any, line: any) => {
+        if (line.toLowerCase() === 'quit') {
+            connector.destroy();
+            process.exit();
+        } else {
+            const result = await bot.process(line.toLowerCase())
+            connector.say(result.answer);
+        }
+    };
+    connector.say("Say something...")
+})()
