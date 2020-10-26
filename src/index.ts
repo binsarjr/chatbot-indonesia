@@ -35,7 +35,6 @@ let bot = new Chatbot({
     await bot.corpusByDir(ENV.corpus_dir)
     await bot.train({ minified: true, force: true })
 
-    
     connector.onHear = async (parent: any, line: any) => {
         if (line.toLowerCase() === 'quit') {
             connector.exit();

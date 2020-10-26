@@ -34,12 +34,14 @@ export class Chatbot {
         this.manager = new NlpManager({
             languages: [this.language],
             forceNER: true,
-            nlu: { log: true }
+            spellCheck: true,
+            nlu: { log: true, spellCheck: true }
         });
         this.entities = new EntitiesManager(this.language, this.manager)
         this.sentiment = new SentimentManager(this.language, this.manager)
         this.filesystem = new Filesystem()
     }
+
 
     corpusByFile = (filepath: string) => {
         let file = JSON.parse(fs.readFileSync(filepath).toString())
