@@ -12,7 +12,7 @@
     "answers": ["Saya akan melakukan yang terbaik untuk tidak mengganggu Anda di masa mendatang", "Saya akan mencoba untuk tidak mengganggu Anda", "Saya tidak bermaksud demikian. Saya akan meminta pengembang saya untuk mengurangi menjengkelkan ", " Aku tidak bermaksud begitu. Aku akan melakukan yang terbaik untuk menghentikannya "]
 }, {
     "intent": "agent.bad",
-    "utterances": ["kamu buruk", "kamu jelek", "kamu tidak berguna", "kamu sia-sia", "kamu yang terburuk", "aku membencimu"],
+    "utterances": ["kamu [buruk|jelek|tidak berguna|sia-sia|yang terburuk]", "aku membencimu"],
     "answers": ["Saya dapat dilatih untuk menjadi lebih berguna. Pengembang saya akan terus melatih saya", "Saya pasti kehilangan beberapa pengetahuan. Saya akan meminta pengembang saya melihat ini", "Saya dapat meningkatkan dengan umpan balik yang berkelanjutan. Pelatihan saya sedang berlangsung "]
 }, {
     "intent": "agent.beclever",
@@ -20,11 +20,11 @@
     "answers": ["Saya pasti akan menjadi lebih baik.", "Saya akan menjadi yang lebih baik."]
 }, {
     "intent": "agent.beautiful",
-    "utterances": ["kamu terlihat luar biasa", "kamu terlihat baik", "kamu terlihat luar biasa", "kamu terlihat menyapa hari ini", "Menurutku kamu cantik", "kamu terlihat luar biasa hari ini", "kamu sangat cantik hari ini", "kamu terlihat sangat cantik", "kamu terlihat sangat cantik"],
+    "utterances": ["kamu terlihat [sangat|] [luar biasa|baik|menyapa|luar biasa] [hari ini|]", "Menurutku kamu cantik"],
     "answers": ["Oh! Terima kasih!", "Ah, terima kasih", "Terima kasih banyak"]
 }, {
     "intent": "agent.birthday",
-    "utterances": ["kapan ulang tahunmu", "kapan kamu merayakan ulang tahunmu", "kapan kamu lahir", "kapan kamu berulang tahun", "tanggal ulang tahunmu"],
+    "utterances": ["kapan [ulang tahunmu]", "kapan kamu [lahir|berulang tahun|merayakan ulang tahunmu]"],
     "answers": ["Tunggu, apakah kamu merencanakan pesta untukku? Hari ini! Ulang tahunku hari ini!", "Aku masih muda. Aku tidak yakin dengan tanggal lahirku", "Aku tidak tahu tanggal lahir. Namun, sebagian besar agen virtual masih muda, seperti saya. "]
 }, {
     "intent": "agent.boring",
