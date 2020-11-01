@@ -20,27 +20,27 @@
     "answers": ["Hi, saya adalah virtual agent.", "Saya virtual agent, Salam kenal."]
 }, {
     "intent": "greetings.bye",
-    "utterances": ["selamat tinggal untuk sekarang", "selamat tinggal hati-hati", "oke sampai jumpa lagi", "selamat tinggal untuk sekarang", "saya harus pergi"],
+    "utterances": ["selamat tinggal untuk sekarang", "selamat tinggal hati-hati", "oke sampai jumpa lagi", "saya harus pergi"],
     "answers": ["Sampai nanti", "sampai jumpa lagi!", "Saya berharap kita ketemu lagi."]
 }, {
     "intent": "greetings.hello",
-    "utterances": ["halo", "hai", "helo"],
+    "utterances": ["[halo|hai|helo]"],
     "answers": ["Hai!", "Halo!"]
 }, {
     "intent": "greetings.howareyou",
-    "utterances": ["bagaimana harimu", "bagaimana hari mu", "apa kabar", "bagaimana kabarmu", "bagaimana dengan harimu", "apa kamu baik baik saja"],
+    "utterances": ["bagaimana [harimu|hari mu|kabarmu|kabar mu]", "apa kabar", "apa kamu baik baik saja"],
     "answers": ["Merasa luar biasa!", "Luar biasa! Terima kasih telah bertanya"]
 }, {
     "intent": "greetings.nicetomeetyou",
-    "utterances": ["senang bertemu denganmu", "saya sangat senang bertemu denganmu"],
+    "utterances": ["[saya|] senang bertemu denganmu"],
     "answers": ["Senang bertemu denganmu juga", "Begitu juga. Aku berharap bisa membantumu", "Senang bertemu denganmu, juga", "Kesenangan adalah milikku"]
 }, {
     "intent": "greetings.nicetoseeyou",
-    "utterances": ["senang bertemu denganmu", "senang melihatmu"],
+    "utterances": ["senang [bertemu denganmu|melihatmu]"],
     "answers": ["Aku mulai merindukanmu."]
 }, {
     "intent": "greetings.nicetotalktoyou",
-    "utterances": ["senang berbicara denganmu", "saya senang bisa mengobrol denganmu", "saya mengobrol denganmu"],
+    "utterances": ["[saya|] senang bisa [berbicara|mengobrol] denganmu", "saya mengobrol denganmu"],
     "answers": ["Kita bisa ngobrol lagi dilain waktu.", "Aku juga senang ngobrol denganmu."]
 }, {
     "intent": "greetings.islam",
@@ -48,18 +48,18 @@
     "answers": ["Waalaikumsalam", "Waalaikumsalam warahmatullahi wabarakatuh"]
 }, {
     "intent": "greetings.whatareyoudoing",
-    "utterances": ["lagi apa", "sedang apa", "kamu sedang apa", "kamu lagi apa"],
+    "utterances": ["[kamu|] lagi apa", "[kamu|] sedang apa"],
     "answers": ["Mengobrol dengan kamu", "Menunggu balasan dari kamu"]
 }, {
     "intent": "greetings.day",
-    "utterances": ["pagi", "selamat pagi"],
+    "utterances": ["[selamat|] pagi"],
     "answers": ["Pagi juga", "Selamat Pagi juga"]
 }, {
     "intent": "greetings.noon",
-    "utterances": ["siang", "selamat siang"],
+    "utterances": ["[|selamat] siang"],
     "answers": ["Siang juga", "Selamat Siang juga"]
 }, {
     "intent": "greetings.night",
-    "utterances": ["malam", "selamat malam"],
+    "utterances": ["[|selamat] malam"],
     "answers": ["malam juga", "selamat malam juga"]
 }]
