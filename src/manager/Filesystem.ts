@@ -1,26 +1,10 @@
-import fs from "fs";
+import { lstat, readdir } from "../transform-callback/fs";
 import path from "path";
 
 
 const Recursive = require("recursive-readdir");
 
-const lstat = async (filename: string): Promise<any> => {
-	return new Promise((resolve, reject) => {
-		fs.lstat(filename, (err, stats) => {
-			if (err) return reject(err)
-			return resolve(stats)
-		})
-	})
-}
 
-const readdir = async (folderPath: string): Promise<string[]> => {
-	return new Promise((resolve, reject) => {
-		fs.readdir(folderPath, (err, files) => {
-			if (err) return reject(err)
-			return resolve(files)
-		})
-	})
-}
 
 
 export class Filesystem {

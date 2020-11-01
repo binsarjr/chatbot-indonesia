@@ -3,7 +3,7 @@ require('dotenv').config()
 import { NodeNlp, CorpusObject, NlpUtils } from "./interfaces";
 
 import { EntitiesManager, SentimentManager, Filesystem } from "./manager";
-import fs from "fs";
+import { readFile } from "./transform-callback/fs";
 import path from "path";
 
 
@@ -15,14 +15,7 @@ interface ChatbotOptions {
 	language: string;
 }
 
-const readFile = async (filepath: string, encoding: string = '') => {
-	return new Promise((resolve, reject) => {
-		fs.readFile(filepath, encoding, (err, data) => {
-			if (err) return reject(err)
-			resolve(data)
-		})
-	})
-}
+
 
 const context = new ConversationContext();
 export class Chatbot {

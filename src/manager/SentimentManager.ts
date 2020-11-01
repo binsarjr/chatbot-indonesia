@@ -9,7 +9,7 @@ interface SentimentJson {
 }
 
 // Library
-import fs from "fs";
+import { readFile } from "../transform-callback/fs";
 
 export class SentimentManager {
 	manager: NlpManager
@@ -19,8 +19,8 @@ export class SentimentManager {
 		this.language = language
 	}
 
-	loadCsv = (filepath: string) => {
-		let lines = fs.readFileSync(filepath).toString().split("\n")
+	loadCsv = async (filepath: string) => {
+		let lines = (await readFile(filepath)).toString().split("\n")
 		for (let line of lines) {
 			let data = line.split("\t")
 			let word = data[0]
@@ -29,8 +29,9 @@ export class SentimentManager {
 		}
 	}
 
-	loadJson = (filepath: string) => {
-		let sentiments: SentimentJson[] = JSON.parse(fs.readFileSync(filepath).toString())
+	loadJson = async (filepath: string) => {
+		let data = await readFile(filepath)
+		let sentiments: SentimentJson[] = JSON.parse(data.toString())
 		for (let sentiment of sentiments) {
 			this.add(sentiment.word, sentiment.point)
 		}
