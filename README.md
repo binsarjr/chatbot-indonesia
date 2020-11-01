@@ -10,6 +10,8 @@ Repo ini saya gunakan untuk mengumpulkan dataset yang bisa digunakan dalam membu
 - [https://github.com/riochr17/Analisis-Sentimen-ID](https://github.com/riochr17/Analisis-Sentimen-ID)
 - [https://github.com/irfnrdh/Awesome-Indonesia-NLP](https://github.com/irfnrdh/Awesome-Indonesia-NLP)
 
+# FAQ
+[nlp.js](https://github.com/axa-group/nlp.js/issues/596#issuecomment-695044472)
 
 # Librari yg digunakan
 - [Nlp.js](https://github.com/axa-group/nlp.js) Mengelola NLP
