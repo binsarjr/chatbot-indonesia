@@ -1,12 +1,13 @@
 require('dotenv').config()
 
-import { NodeNlp, CorpusObject } from "./interfaces";
+import { NodeNlp, CorpusObject, NlpUtils } from "./interfaces";
 
 import { EntitiesManager, SentimentManager, Filesystem } from "./manager";
 import fs from "fs";
 
 
 const { NlpManager, ConversationContext } = require('node-nlp');
+const NlpUtils: NlpUtils = require('@nlpjs/utils');
 
 interface ChatbotOptions {
 	modelpath: string;
@@ -38,6 +39,9 @@ export class Chatbot {
 				useNoneFeature: true,
 				trainByDomain: false
 			},
+			ner: {
+				threshold: 1
+			}
 		});
 		this.entities = new EntitiesManager(this.language, this.manager)
 		this.sentiment = new SentimentManager(this.language, this.manager)
@@ -50,7 +54,7 @@ export class Chatbot {
 		let corpus: CorpusObject[] = file
 		corpus.forEach(data => {
 			if (data.intent !== 'None') {
-				data.utterances.forEach(utterance => this.manager.addDocument(this.language, utterance.toLowerCase(), data.intent));
+				data.utterances.forEach(composeUtterance => NlpUtils.composeFromPattern(composeUtterance).forEach(utterance => this.manager.addDocument(this.language, utterance, data.intent)));
 				data.answers.forEach(answer => this.manager.addAnswer(this.language, data.intent, answer));
 			} else {
 				data.answers.forEach(answer => this.manager.addAnswer(this.language, "None", answer));
