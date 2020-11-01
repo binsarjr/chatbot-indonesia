@@ -19,13 +19,13 @@ let bot = new Chatbot({
 (async () => {
 	let files: string[]
 	// Load entities
-	files = await bot.filesystem.getFiles('dataset/entities/csv')
+	files = await bot.filesystem.getFiles('dataset/entities/tsv')
 	files.forEach(file => bot.entities.loadCsv(file))
 	files = await bot.filesystem.getFiles('dataset/entities/json')
 	files.forEach(file => bot.entities.loadJson(file))
 
 	// Load sentiment
-	files = await bot.filesystem.getFiles('dataset/sentiment/csv')
+	files = await bot.filesystem.getFiles('dataset/sentiment/tsv')
 	files.forEach(file => bot.sentiment.loadCsv(file))
 	files = await bot.filesystem.getFiles('dataset/sentiment/json')
 	files.forEach(file => bot.sentiment.loadJson(file))
