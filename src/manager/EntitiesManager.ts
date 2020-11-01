@@ -12,6 +12,8 @@ interface EntityJson {
 // Library
 import { readFile } from "../transform-callback/fs";
 
+type SeparatedValuesDelimiter = "," | "\t"
+
 export class EntitiesManager {
 	manager: NlpManager
 	language: string
@@ -20,16 +22,19 @@ export class EntitiesManager {
 		this.language = language
 	}
 
-	loadCsv = async (filepath: string) => {
+	loadSeparatedValues = async (filepath: string, delimiter: SeparatedValuesDelimiter) => {
 		let lines: string[] = (await readFile(filepath)).toString().split("\n")
 		for (let line of lines) {
-			let data = line.split("\t")
+			let data = line.split(delimiter)
 			let entityName = data[0]
 			let optionName = data[1]
 			let texts = data[2].split('|')
 			this.add(entityName, optionName, texts)
 		}
 	}
+
+	loadCsv = async (filepath: string) => this.loadSeparatedValues(filepath, ",")
+	loadTsv = async (filepath: string) => this.loadSeparatedValues(filepath, "\t")
 
 	loadJson = async (filepath: string) => {
 		let data = await readFile(filepath)

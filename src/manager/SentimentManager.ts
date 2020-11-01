@@ -1,4 +1,6 @@
 // Interfaces
+import { type } from "os";
+import { fileURLToPath } from "url";
 import { NodeNlp } from "../interfaces";
 
 // set local interfaces
@@ -11,6 +13,8 @@ interface SentimentJson {
 // Library
 import { readFile } from "../transform-callback/fs";
 
+type SeparatedValuesDelimiter = "," | "\t"
+
 export class SentimentManager {
 	manager: NlpManager
 	language: string;
@@ -18,16 +22,18 @@ export class SentimentManager {
 		this.manager = manager
 		this.language = language
 	}
-
-	loadCsv = async (filepath: string) => {
+	loadSeparatedValues = async (filepath: string, delimiter: SeparatedValuesDelimiter) => {
 		let lines = (await readFile(filepath)).toString().split("\n")
 		for (let line of lines) {
-			let data = line.split("\t")
+			let data = line.split(delimiter)
 			let word = data[0]
 			let point = parseInt(data[1])
 			this.add(word, point)
 		}
 	}
+
+	loadCsv = async (filepath: string) => this.loadSeparatedValues(filepath, ",")
+	loadTsv = async (filepath: string) => this.loadSeparatedValues(filepath, "\t")
 
 	loadJson = async (filepath: string) => {
 		let data = await readFile(filepath)
