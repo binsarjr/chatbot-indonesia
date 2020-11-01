@@ -31,7 +31,7 @@ export class EntitiesManager {
 			let data = line.split("\t")
 			let entityName = data[0]
 			let optionName = data[1]
-			let texts = data[2].split(',')
+			let texts = data[2].split('|')
 			this.add(entityName, optionName,  texts)
 		}
 	}

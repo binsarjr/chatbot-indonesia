@@ -2,7 +2,7 @@ day	senin	senin
 day	selasa	selasa
 day	rabu	rabu
 day	kamis	kamis
-day	jumat	jumat,jum'at
+day	jumat	jumat|jum'at
 day	minggu	minggu
 month	Januari	Januari
 month	Februari	Februari
