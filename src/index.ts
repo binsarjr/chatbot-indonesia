@@ -8,43 +8,44 @@ const { ConsoleConnector } = require('@nlpjs/console-connector')
 const connector = new ConsoleConnector()
 
 const ENV: ENVInterface = {
-    corpus_dir: process.env.PATH_CORPUS_DIR,
-    modelpath: process.env.PATH_MODEL
+	corpus_dir: process.env.PATH_CORPUS_DIR,
+	modelpath: process.env.PATH_MODEL
 }
 
 let bot = new Chatbot({
-    language: "id",
-    modelpath: ENV.modelpath
+	language: "id",
+	modelpath: ENV.modelpath
 });
 (async () => {
-    let files: string[]
-    // Load entities
-    files = await bot.filesystem.getFiles('dataset/entities/csv')
-    files.forEach(file => bot.entities.loadCsv(file))
-    files = await bot.filesystem.getFiles('dataset/entities/json')
-    files.forEach(file => bot.entities.loadJson(file))
+	let files: string[]
+	// Load entities
+	files = await bot.filesystem.getFiles('dataset/entities/csv')
+	files.forEach(file => bot.entities.loadCsv(file))
+	files = await bot.filesystem.getFiles('dataset/entities/json')
+	files.forEach(file => bot.entities.loadJson(file))
 
-    // Load sentiment
-    files = await bot.filesystem.getFiles('dataset/sentiment/csv')
-    files.forEach(file => bot.sentiment.loadCsv(file))
-    files = await bot.filesystem.getFiles('dataset/sentiment/json')
-    files.forEach(file => bot.sentiment.loadJson(file))
+	// Load sentiment
+	files = await bot.filesystem.getFiles('dataset/sentiment/csv')
+	files.forEach(file => bot.sentiment.loadCsv(file))
+	files = await bot.filesystem.getFiles('dataset/sentiment/json')
+	files.forEach(file => bot.sentiment.loadJson(file))
 
 
 
-    await bot.corpusByDir(ENV.corpus_dir)
-    await bot.train({ minified: true, force: true })
+	await bot.corpusByDir(ENV.corpus_dir)
+	await bot.manager.train()
 
-    connector.onHear = async (parent: any, line: any) => {
-        if (line.toLowerCase() === 'quit') {
-            connector.exit();
-        } else {
-            const result: NodeNlp.process = await bot.process(line.toLowerCase())
-            console.log(result)
-            if(result.score > 0.79) {
-                connector.say(result.answer);
-            }
-        }
-    };
-    connector.say("Say something...")
+	connector.onHear = async (parent: any, line: any) => {
+		if (line.toLowerCase() === 'quit') {
+			connector.exit();
+		} else {
+			const result: NodeNlp.process = await bot.process(line.toLowerCase())
+			console.log(result)
+			if(result.score > 0.75) {
+				connector.say(result.answer);
+			}
+			// console.log(bot.manager.nlp.nluManager.filterNonActivated(result))
+		}
+	};
+	connector.say("Say something...")
 })()

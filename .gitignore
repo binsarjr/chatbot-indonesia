@@ -3,3 +3,4 @@ dist/
 package-lock.json
 dataset/idwiki-l*.bz2
 model.nlp
+src/tmp_file.ts

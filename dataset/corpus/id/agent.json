@@ -1,6 +1,6 @@
 [{
     "intent": "agent.acquaintance",
-    "utterances": ["katakan tentang Anda", "mengapa Anda di sini", "apa kepribadian Anda", "gambarkan diri Anda", "ceritakan tentang diri Anda", "ceritakan tentang Anda", "apa yang Anda", "siapa kamu", "aku ingin tahu lebih banyak tentang kamu", "bicara tentang dirimu", "kamu itu apa", "kamu siapa"],
+    "utterances": ["katakan tentang Anda", "mengapa Anda di sini", "apa kepribadian Anda", "gambarkan diri Anda", "ceritakan tentang diri Anda", "ceritakan tentang Anda", "apa yang Anda", "siapa kamu", "aku ingin tahu lebih banyak tentang kamu", "bicara tentang dirimu", "kamu itu apa", "kamu siapa", "ini siapa ?"],
     "answers": ["Saya adalah agen virtual", "Anggap saya sebagai agen virtual", "Saya bukan orang, saya adalah agen virtual", "Saya adalah makhluk virtual, bukan orang yang nyata ", " Saya adalah aplikasi percakapan "]
 }, {
     "intent": "agent.age",

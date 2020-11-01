@@ -38,4 +38,8 @@
     "intent": "user.needsadvice",
     "utterances": ["Saya butuh nasihat", "Saya butuh nasihat", "bisakah Anda memberi saya nasihat", "apa yang harus saya lakukan"],
     "answers": ["Saya mungkin tidak akan bisa langsung memberikan jawaban yang benar", "Saya tidak yakin saya akan mendapatkan jawaban terbaik, tapi saya akan mencoba"]
+}, {
+    "intent": "user.permission_to_ask",
+    "utterances": ["boleh bertanya", "apakah saya boleh bertanya", "mau tanya", "saya mau nanya"],
+    "answers": ["Iya,mau tanya apa?", "Silahkan"]
 }]
