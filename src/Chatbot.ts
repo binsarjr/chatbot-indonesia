@@ -4,6 +4,7 @@ import { NodeNlp, CorpusObject, NlpUtils } from "./interfaces";
 
 import { EntitiesManager, SentimentManager, Filesystem } from "./manager";
 import fs from "fs";
+import path from "path";
 
 
 const { NlpManager, ConversationContext } = require('node-nlp');
@@ -14,7 +15,14 @@ interface ChatbotOptions {
 	language: string;
 }
 
-
+const readFile = async (filepath: string, encoding: string = '') => {
+	return new Promise((resolve, reject) => {
+		fs.readFile(filepath, encoding, (err, data) => {
+			if (err) return reject(err)
+			resolve(data)
+		})
+	})
+}
 
 const context = new ConversationContext();
 export class Chatbot {
@@ -49,22 +57,39 @@ export class Chatbot {
 	}
 
 
-	corpusByFile = (filepath: string) => {
-		let file = JSON.parse(fs.readFileSync(filepath).toString())
+	corpusByFile = async (filepath: string) => {
+		let data: any = await readFile(path.join(__dirname, '../', filepath))
+		let file = JSON.parse(data.toString())
 		let corpus: CorpusObject[] = file
-		corpus.forEach(data => {
+		return corpus.map(data => {
 			if (data.intent !== 'None') {
-				data.utterances.forEach(composeUtterance => NlpUtils.composeFromPattern(composeUtterance).forEach(utterance => this.manager.addDocument(this.language, utterance, data.intent)));
-				data.answers.forEach(answer => this.manager.addAnswer(this.language, data.intent, answer));
+				let composed: string[] = []
+				data.utterances.forEach(composeUtterance => {
+					let nlputils = NlpUtils.composeFromPattern(composeUtterance).map(utterance => {
+						this.manager.addDocument(this.language, utterance, data.intent)
+						return utterance
+					})
+					composed = [...composed, ...nlputils]
+				});
+				data.utterances = Array.from(new Set(composed))
+				data.answers = data.answers.map(answer => {
+					this.manager.addAnswer(this.language, data.intent, answer)
+					return answer
+				});
 			} else {
-				data.answers.forEach(answer => this.manager.addAnswer(this.language, "None", answer));
+				data.answers = data.answers.map(answer => {
+					this.manager.addAnswer(this.language, "None", answer)
+					return answer
+				});
 			}
+
+			return data
 		});
 	}
 
 	corpusByDir = async (folderpath: string) => {
 		let files: string[] = await this.filesystem.getFiles(folderpath)
-		files.forEach(file => this.corpusByFile(file))
+		return await Promise.all(files.map(async file => await this.corpusByFile(file)))
 	}
 
 

@@ -41,7 +41,7 @@ let bot = new Chatbot({
 		} else {
 			const result: NodeNlp.process = await bot.process(line.toLowerCase())
 			console.log(result)
-			if(result.score > 0.75) {
+			if (result.score > 0.75) {
 				connector.say(result.answer);
 			}
 			// console.log(bot.manager.nlp.nluManager.filterNonActivated(result))
