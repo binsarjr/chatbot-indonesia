@@ -4,6 +4,7 @@
     "description": "",
     "main": "dist/index.ts",
     "scripts": {
+        "build": "tsc",
         "start": "node ./dist/index.js",
         "watch": "rm -rf dist/ && tsc -w"
     },

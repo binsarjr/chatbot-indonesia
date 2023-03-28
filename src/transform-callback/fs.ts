@@ -1,7 +1,8 @@
-import fs from "fs";
+import fs from "fs"
 
 export const readFile = async (filepath: string, encoding: string = ''): Promise<string> => {
 	return new Promise((resolve, reject) => {
+		// @ts-ignore
 		fs.readFile(filepath, encoding, (err, data) => {
 			if (err) return reject(err)
 			resolve(data)

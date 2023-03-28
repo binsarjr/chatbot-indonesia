@@ -1,14 +1,16 @@
 require('dotenv').config()
 
-import { NodeNlp, CorpusObject, NlpUtils } from "./interfaces";
+import { CorpusObject, NlpUtils, NodeNlp } from "./interfaces"
 
-import { EntitiesManager, SentimentManager, Filesystem } from "./manager";
-import { readFile } from "./transform-callback/fs";
-import path from "path";
+import path from "path"
+import { EntitiesManager, Filesystem, SentimentManager } from "./manager"
+import { readFile } from "./transform-callback/fs"
 
-
-const { NlpManager, ConversationContext } = require('node-nlp');
-const NlpUtils: NlpUtils = require('@nlpjs/utils');
+// @ts-ignore
+import { ConversationContext, NlpManager } from 'node-nlp'
+// @ts-ignore
+import nlpUtils from '@nlpjs/utils'
+const NlpUtils: NlpUtils = nlpUtils
 
 interface ChatbotOptions {
 	modelpath: string;
